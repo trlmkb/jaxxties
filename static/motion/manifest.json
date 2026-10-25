@@ -1,0 +1,202 @@
+[
+  {
+    "id": "shipping-calm-v3",
+    "agent": "shipping",
+    "variant": "calm",
+    "source": "/motion/sources/shipping-calm-seedance-v1.mp4",
+    "sourceSha256": "33d4ee7f1c5f47fc144fd90d7c1468d98906bfc5af0c58889f5cd567ba17bb63",
+    "status": "reviewed-export",
+    "width": 1200,
+    "height": 1200,
+    "fps": 24.0,
+    "frames": 145,
+    "duration": 6.041666666666667,
+    "crop": [
+      64,
+      110,
+      1284,
+      1284
+    ],
+    "opaque": false,
+    "packed": "/motion/shipping-calm-v3-packed.mp4",
+    "webm": "/motion/shipping-calm-v3.webm",
+    "page": "/motion/shipping-calm-v3-ivory.mp4",
+    "dark": "/motion/shipping-calm-v3-dark.mp4",
+    "poster": "/motion/shipping-calm-v3.webp",
+    "reviewSheets": [
+      "/reviews/final-v1/shipping-calm-v3-01.jpg",
+      "/reviews/final-v1/shipping-calm-v3-02.jpg",
+      "/reviews/final-v1/shipping-calm-v3-03.jpg",
+      "/reviews/final-v1/shipping-calm-v3-04.jpg",
+      "/reviews/final-v1/shipping-calm-v3-05.jpg",
+      "/reviews/final-v1/shipping-calm-v3-06.jpg",
+      "/reviews/final-v1/shipping-calm-v3-07.jpg"
+    ],
+    "reviewFramesPerSheet": 24,
+    "reviewReport": "/reviews/final-v1/shipping-calm-v3.json",
+    "model": "Seedance 2.5",
+    "limitations": [
+      "Generated motion may show small texture or engraving variations; review in the intended layout."
+    ]
+  },
+  {
+    "id": "ads-calm-v3",
+    "agent": "ads",
+    "variant": "calm",
+    "source": "/motion/sources/ads-calm-seedance-v1.mp4",
+    "sourceSha256": "3c80a29696b460b39d7de1a72ee0cc584c096b056cc02b9be8d2bad64262e1af",
+    "status": "reviewed-export",
+    "width": 1200,
+    "height": 1200,
+    "fps": 24.0,
+    "frames": 145,
+    "duration": 6.041666666666667,
+    "crop": [
+      49,
+      83,
+      1338,
+      1338
+    ],
+    "opaque": false,
+    "packed": "/motion/ads-calm-v3-packed.mp4",
+    "webm": "/motion/ads-calm-v3.webm",
+    "page": "/motion/ads-calm-v3-ivory.mp4",
+    "dark": "/motion/ads-calm-v3-dark.mp4",
+    "poster": "/motion/ads-calm-v3.webp",
+    "reviewSheets": [
+      "/reviews/final-v1/ads-calm-v3-01.jpg",
+      "/reviews/final-v1/ads-calm-v3-02.jpg",
+      "/reviews/final-v1/ads-calm-v3-03.jpg",
+      "/reviews/final-v1/ads-calm-v3-04.jpg",
+      "/reviews/final-v1/ads-calm-v3-05.jpg",
+      "/reviews/final-v1/ads-calm-v3-06.jpg",
+      "/reviews/final-v1/ads-calm-v3-07.jpg"
+    ],
+    "reviewFramesPerSheet": 24,
+    "reviewReport": "/reviews/final-v1/ads-calm-v3.json",
+    "model": "Seedance 2.5",
+    "limitations": [
+      "Generated motion may show small texture or engraving variations; review in the intended layout."
+    ]
+  },
+  {
+    "id": "ads-playful-v3",
+    "agent": "ads",
+    "variant": "playful",
+    "source": "/motion/sources/ads-playful-seedance-v1.mp4",
+    "sourceSha256": "52220b2ed464c6c99299a2c01878d1762287851b4cb1e48d0dfe672c5aace6df",
+    "status": "reviewed-export",
+    "width": 1200,
+    "height": 1200,
+    "fps": 24.0,
+    "frames": 145,
+    "duration": 6.041666666666667,
+    "crop": [
+      11,
+      8,
+      1482,
+      1482
+    ],
+    "opaque": false,
+    "packed": "/motion/ads-playful-v3-packed.mp4",
+    "webm": "/motion/ads-playful-v3.webm",
+    "page": "/motion/ads-playful-v3-ivory.mp4",
+    "dark": "/motion/ads-playful-v3-dark.mp4",
+    "poster": "/motion/ads-playful-v3.webp",
+    "reviewSheets": [
+      "/reviews/final-v1/ads-playful-v3-01.jpg",
+      "/reviews/final-v1/ads-playful-v3-02.jpg",
+      "/reviews/final-v1/ads-playful-v3-03.jpg",
+      "/reviews/final-v1/ads-playful-v3-04.jpg",
+      "/reviews/final-v1/ads-playful-v3-05.jpg",
+      "/reviews/final-v1/ads-playful-v3-06.jpg",
+      "/reviews/final-v1/ads-playful-v3-07.jpg"
+    ],
+    "reviewFramesPerSheet": 24,
+    "reviewReport": "/reviews/final-v1/ads-playful-v3.json",
+    "model": "Seedance 2.5",
+    "limitations": [
+      "Generated motion may show small texture or engraving variations; review in the intended layout."
+    ]
+  },
+  {
+    "id": "tariff-calm-v3",
+    "agent": "tariff",
+    "variant": "calm",
+    "source": "/motion/sources/tariff-calm-seedance-v1.mp4",
+    "sourceSha256": "af105141cb4e01b2fed82fc3abb75e0917c755ddcdbd75bd35387ef1da7af7f3",
+    "status": "reviewed-export",
+    "width": 1200,
+    "height": 1200,
+    "fps": 24.0,
+    "frames": 145,
+    "duration": 6.041666666666667,
+    "crop": [
+      59,
+      -22,
+      1468,
+      1468
+    ],
+    "opaque": false,
+    "packed": "/motion/tariff-calm-v3-packed.mp4",
+    "webm": "/motion/tariff-calm-v3.webm",
+    "page": "/motion/tariff-calm-v3-ivory.mp4",
+    "dark": "/motion/tariff-calm-v3-dark.mp4",
+    "poster": "/motion/tariff-calm-v3.webp",
+    "reviewSheets": [
+      "/reviews/final-v1/tariff-calm-v3-01.jpg",
+      "/reviews/final-v1/tariff-calm-v3-02.jpg",
+      "/reviews/final-v1/tariff-calm-v3-03.jpg",
+      "/reviews/final-v1/tariff-calm-v3-04.jpg",
+      "/reviews/final-v1/tariff-calm-v3-05.jpg",
+      "/reviews/final-v1/tariff-calm-v3-06.jpg",
+      "/reviews/final-v1/tariff-calm-v3-07.jpg"
+    ],
+    "reviewFramesPerSheet": 24,
+    "reviewReport": "/reviews/final-v1/tariff-calm-v3.json",
+    "model": "Seedance 2.5",
+    "limitations": [
+      "Generated motion may show small texture or engraving variations; review in the intended layout."
+    ]
+  },
+  {
+    "id": "token-calm-v3",
+    "agent": "token",
+    "variant": "calm",
+    "source": "/motion/sources/token-calm-seedance-v1.mp4",
+    "sourceSha256": "05aec1ddab24c09a6f1c889e118c582cf79087e2768428dbd7c8218bf201e753",
+    "status": "reviewed-export",
+    "width": 1200,
+    "height": 1200,
+    "fps": 24.0,
+    "frames": 145,
+    "duration": 6.041666666666667,
+    "crop": [
+      101,
+      54,
+      1352,
+      1352
+    ],
+    "opaque": false,
+    "packed": "/motion/token-calm-v3-packed.mp4",
+    "webm": "/motion/token-calm-v3.webm",
+    "page": "/motion/token-calm-v3-ivory.mp4",
+    "dark": "/motion/token-calm-v3-dark.mp4",
+    "poster": "/motion/token-calm-v3.webp",
+    "reviewSheets": [
+      "/reviews/final-v1/token-calm-v3-01.jpg",
+      "/reviews/final-v1/token-calm-v3-02.jpg",
+      "/reviews/final-v1/token-calm-v3-03.jpg",
+      "/reviews/final-v1/token-calm-v3-04.jpg",
+      "/reviews/final-v1/token-calm-v3-05.jpg",
+      "/reviews/final-v1/token-calm-v3-06.jpg",
+      "/reviews/final-v1/token-calm-v3-07.jpg"
+    ],
+    "reviewFramesPerSheet": 24,
+    "reviewReport": "/reviews/final-v1/token-calm-v3.json",
+    "model": "Seedance 2.5",
+    "limitations": [
+      "Generated motion may show small texture or engraving variations; review in the intended layout."
+    ]
+  }
+]

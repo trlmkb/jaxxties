@@ -1,0 +1,14 @@
+[
+  {
+    "agent": "tariff",
+    "prompt": "Edit ONLY the oxblood/red material of this attached mascot: change document body, spine, arms, legs, rounded hands to restrained warm aged brass satin metal, midtone #A27C3E with soft champagne highlights, darker bronze shadows. It must read clearly golden-brass, not red, orange or brown copper. Keep raised globe and stamp casing slightly lighter champagne brass for visible tonal separation. Preserve entire exact original shape, pose, camera, paper tab with three gray lines, original narrow black horizontal pill eyes, little mouth slot, feet, stamp dark pad, tiny engraved XX on casing, tool hand and fine satin texture. No redesign, no X eyes. Same centered full silhouette, same framing, transparent background, no floor/shadow/glow, no text.",
+    "path": "/Users/zy/dev/dash/jaxxties/static/characters/tariff/master-v1.png",
+    "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-5b57ceee-07d4-4aa7-9d0f-164aa91a7f5d.png"
+  },
+  {
+    "agent": "token",
+    "prompt": "Edit ONLY the navy blue material of this attached mascot: change navy receipt backing, curled side structure, arms and feet to rich muted plum-purple satin metal, midtone #6B4D78, subtle lilac highlights and deep aubergine shadows. Clearly purple, neither blue nor oxblood red. Preserve the ivory paper exactly including all arrows, lines and chip, exact tear geometry and curl, original narrow horizontal black pill eyes, brass magnifier with tiny XX at lower rim, lens and handle, same pose/tool hand/camera/limbs and fine satin texture. No redesign, no X eyes. Same centered full silhouette and framing, transparent background, no floor/shadow/glow, no text.",
+    "path": "/Users/zy/dev/dash/jaxxties/static/characters/token/master-v1.png",
+    "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-387f1bc1-343f-4f65-b012-8eaed3ec993e.png"
+  }
+]

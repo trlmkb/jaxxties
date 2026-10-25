@@ -1,0 +1,3234 @@
+{
+  "clip": {
+    "id": "token-calm-v3",
+    "agent": "token",
+    "variant": "calm",
+    "source": "/motion/sources/token-calm-seedance-v1.mp4",
+    "sourceSha256": "05aec1ddab24c09a6f1c889e118c582cf79087e2768428dbd7c8218bf201e753",
+    "status": "reviewed-export",
+    "width": 1200,
+    "height": 1200,
+    "fps": 24.0,
+    "frames": 145,
+    "duration": 6.041666666666667,
+    "crop": [
+      101,
+      54,
+      1352,
+      1352
+    ],
+    "opaque": false,
+    "packed": "/motion/token-calm-v3-packed.mp4",
+    "webm": "/motion/token-calm-v3.webm",
+    "page": "/motion/token-calm-v3-ivory.mp4",
+    "dark": "/motion/token-calm-v3-dark.mp4",
+    "poster": "/motion/token-calm-v3.webp",
+    "reviewSheets": [
+      "/reviews/final-v1/token-calm-v3-01.jpg",
+      "/reviews/final-v1/token-calm-v3-02.jpg",
+      "/reviews/final-v1/token-calm-v3-03.jpg",
+      "/reviews/final-v1/token-calm-v3-04.jpg",
+      "/reviews/final-v1/token-calm-v3-05.jpg",
+      "/reviews/final-v1/token-calm-v3-06.jpg",
+      "/reviews/final-v1/token-calm-v3-07.jpg"
+    ],
+    "reviewFramesPerSheet": 24,
+    "reviewReport": "/reviews/final-v1/token-calm-v3.json",
+    "model": "Seedance 2.5",
+    "limitations": [
+      "Generated motion may show small texture or engraving variations; review in the intended layout."
+    ]
+  },
+  "frameMetrics": [
+    {
+      "frame": 0,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866823,
+      "backgroundEstimate": [
+        88.0,
+        255.0,
+        82.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 1,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866895,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 2,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866902,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 3,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866890,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        81.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 4,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866892,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        81.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 5,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866927,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 6,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866943,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 7,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866926,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 8,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866949,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 9,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866945,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 10,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866904,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 11,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866898,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 12,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866924,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 13,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866984,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 14,
+      "bbox": [
+        310,
+        146,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867380,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 15,
+      "bbox": [
+        310,
+        146,
+        1233,
+        1318
+      ],
+      "visiblePixels": 868296,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        195,
+        78
+      ]
+    },
+    {
+      "frame": 16,
+      "bbox": [
+        310,
+        145,
+        1234,
+        1318
+      ],
+      "visiblePixels": 869591,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        194,
+        78
+      ]
+    },
+    {
+      "frame": 17,
+      "bbox": [
+        310,
+        145,
+        1237,
+        1318
+      ],
+      "visiblePixels": 871757,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        81,
+        191,
+        78
+      ]
+    },
+    {
+      "frame": 18,
+      "bbox": [
+        311,
+        144,
+        1240,
+        1318
+      ],
+      "visiblePixels": 873927,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        189,
+        78
+      ]
+    },
+    {
+      "frame": 19,
+      "bbox": [
+        311,
+        144,
+        1242,
+        1318
+      ],
+      "visiblePixels": 875435,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 20,
+      "bbox": [
+        311,
+        144,
+        1242,
+        1318
+      ],
+      "visiblePixels": 876109,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 21,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876610,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 22,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876670,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 23,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876774,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 24,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876882,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 25,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876964,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 26,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876883,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 27,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876900,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 28,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876892,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 29,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876960,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 30,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876927,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 31,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876985,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 32,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876893,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 33,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876958,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 34,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876922,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 35,
+      "bbox": [
+        311,
+        143,
+        1242,
+        1318
+      ],
+      "visiblePixels": 876366,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 36,
+      "bbox": [
+        310,
+        144,
+        1241,
+        1318
+      ],
+      "visiblePixels": 875274,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        188,
+        78
+      ]
+    },
+    {
+      "frame": 37,
+      "bbox": [
+        310,
+        145,
+        1240,
+        1318
+      ],
+      "visiblePixels": 873407,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        189,
+        78
+      ]
+    },
+    {
+      "frame": 38,
+      "bbox": [
+        310,
+        146,
+        1238,
+        1318
+      ],
+      "visiblePixels": 871640,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        191,
+        78
+      ]
+    },
+    {
+      "frame": 39,
+      "bbox": [
+        310,
+        146,
+        1236,
+        1318
+      ],
+      "visiblePixels": 869922,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        192,
+        78
+      ]
+    },
+    {
+      "frame": 40,
+      "bbox": [
+        310,
+        147,
+        1234,
+        1318
+      ],
+      "visiblePixels": 868542,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        194,
+        78
+      ]
+    },
+    {
+      "frame": 41,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867543,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 42,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867104,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 43,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866989,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 44,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866926,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 45,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866981,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 46,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867003,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 47,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867010,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 48,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867004,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 49,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867027,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 50,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867040,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 51,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866981,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 52,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867001,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 53,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867045,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 54,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866991,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        83,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 55,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867416,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 56,
+      "bbox": [
+        310,
+        146,
+        1233,
+        1318
+      ],
+      "visiblePixels": 868425,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        195,
+        78
+      ]
+    },
+    {
+      "frame": 57,
+      "bbox": [
+        310,
+        145,
+        1236,
+        1318
+      ],
+      "visiblePixels": 870375,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        81,
+        193,
+        78
+      ]
+    },
+    {
+      "frame": 58,
+      "bbox": [
+        310,
+        145,
+        1238,
+        1318
+      ],
+      "visiblePixels": 872659,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        191,
+        78
+      ]
+    },
+    {
+      "frame": 59,
+      "bbox": [
+        310,
+        144,
+        1240,
+        1318
+      ],
+      "visiblePixels": 874409,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        189,
+        78
+      ]
+    },
+    {
+      "frame": 60,
+      "bbox": [
+        311,
+        144,
+        1242,
+        1318
+      ],
+      "visiblePixels": 875436,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        80.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        188,
+        78
+      ]
+    },
+    {
+      "frame": 61,
+      "bbox": [
+        311,
+        143,
+        1242,
+        1318
+      ],
+      "visiblePixels": 876194,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 62,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876495,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 63,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876714,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 64,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876797,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 65,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876979,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 66,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876935,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 67,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876897,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 68,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876929,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 69,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876988,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 70,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876954,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 71,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876924,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 72,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876939,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 73,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876918,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 74,
+      "bbox": [
+        311,
+        143,
+        1244,
+        1318
+      ],
+      "visiblePixels": 876883,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 75,
+      "bbox": [
+        311,
+        144,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876407,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 76,
+      "bbox": [
+        310,
+        144,
+        1242,
+        1318
+      ],
+      "visiblePixels": 875363,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 77,
+      "bbox": [
+        310,
+        145,
+        1240,
+        1318
+      ],
+      "visiblePixels": 873634,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        189,
+        78
+      ]
+    },
+    {
+      "frame": 78,
+      "bbox": [
+        310,
+        146,
+        1238,
+        1318
+      ],
+      "visiblePixels": 871948,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        190,
+        78
+      ]
+    },
+    {
+      "frame": 79,
+      "bbox": [
+        310,
+        146,
+        1236,
+        1318
+      ],
+      "visiblePixels": 870209,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        192,
+        78
+      ]
+    },
+    {
+      "frame": 80,
+      "bbox": [
+        310,
+        147,
+        1234,
+        1318
+      ],
+      "visiblePixels": 868813,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        194,
+        78
+      ]
+    },
+    {
+      "frame": 81,
+      "bbox": [
+        310,
+        147,
+        1233,
+        1318
+      ],
+      "visiblePixels": 867865,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        195,
+        78
+      ]
+    },
+    {
+      "frame": 82,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867294,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 83,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867068,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 84,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867026,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 85,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867094,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 86,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867096,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 87,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867107,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 88,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867103,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 89,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867110,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 90,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867096,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 91,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867085,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 92,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867096,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 93,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867077,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 94,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867053,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 95,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867194,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 96,
+      "bbox": [
+        310,
+        145,
+        1234,
+        1318
+      ],
+      "visiblePixels": 869270,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        194,
+        78
+      ]
+    },
+    {
+      "frame": 97,
+      "bbox": [
+        310,
+        145,
+        1236,
+        1318
+      ],
+      "visiblePixels": 871310,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        192,
+        78
+      ]
+    },
+    {
+      "frame": 98,
+      "bbox": [
+        310,
+        144,
+        1239,
+        1318
+      ],
+      "visiblePixels": 873662,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        190,
+        78
+      ]
+    },
+    {
+      "frame": 99,
+      "bbox": [
+        310,
+        144,
+        1241,
+        1318
+      ],
+      "visiblePixels": 875280,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        188,
+        78
+      ]
+    },
+    {
+      "frame": 100,
+      "bbox": [
+        310,
+        144,
+        1242,
+        1318
+      ],
+      "visiblePixels": 876030,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 101,
+      "bbox": [
+        311,
+        144,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876528,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 102,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876756,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 103,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876872,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 104,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876922,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 105,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877017,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 106,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877022,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 107,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876963,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 108,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876963,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 109,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877069,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 110,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877064,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 111,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877072,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 112,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876952,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 113,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877033,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 114,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 877018,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 115,
+      "bbox": [
+        311,
+        143,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876999,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        79,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 116,
+      "bbox": [
+        311,
+        144,
+        1243,
+        1318
+      ],
+      "visiblePixels": 876311,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        186,
+        78
+      ]
+    },
+    {
+      "frame": 117,
+      "bbox": [
+        310,
+        145,
+        1242,
+        1318
+      ],
+      "visiblePixels": 874981,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        186,
+        80,
+        187,
+        78
+      ]
+    },
+    {
+      "frame": 118,
+      "bbox": [
+        310,
+        145,
+        1240,
+        1318
+      ],
+      "visiblePixels": 873559,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        81,
+        189,
+        78
+      ]
+    },
+    {
+      "frame": 119,
+      "bbox": [
+        310,
+        146,
+        1238,
+        1318
+      ],
+      "visiblePixels": 872051,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        190,
+        78
+      ]
+    },
+    {
+      "frame": 120,
+      "bbox": [
+        310,
+        147,
+        1234,
+        1318
+      ],
+      "visiblePixels": 868614,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        83,
+        194,
+        78
+      ]
+    },
+    {
+      "frame": 121,
+      "bbox": [
+        310,
+        147,
+        1233,
+        1318
+      ],
+      "visiblePixels": 867647,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        83,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 122,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867128,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 123,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866979,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 124,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866973,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 125,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866977,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 126,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867006,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 127,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867013,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 128,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867003,
+      "backgroundEstimate": [
+        87.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        83,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 129,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867005,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 130,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867000,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 131,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867003,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 132,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867061,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 133,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867014,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 134,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866966,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 135,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866943,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 136,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866983,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 137,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867078,
+      "backgroundEstimate": [
+        84.0,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 138,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866993,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 139,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866982,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 140,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866995,
+      "backgroundEstimate": [
+        86.0,
+        255.0,
+        79.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 141,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867053,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        76.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 142,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 867043,
+      "backgroundEstimate": [
+        85.0,
+        255.0,
+        76.5
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 143,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866988,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    },
+    {
+      "frame": 144,
+      "bbox": [
+        310,
+        147,
+        1232,
+        1318
+      ],
+      "visiblePixels": 866961,
+      "backgroundEstimate": [
+        86.5,
+        255.0,
+        77.0
+      ],
+      "sourceBorderAlphaMax": 0,
+      "exportMargins": [
+        185,
+        82,
+        196,
+        78
+      ]
+    }
+  ]
+}

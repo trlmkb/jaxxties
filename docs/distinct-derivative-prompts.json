@@ -1,0 +1,40 @@
+{
+  "poses": [
+    {
+      "agent": "tariff",
+      "id": "tariff-stamp-v1",
+      "prompt": "Edit FIRST image ONLY. Preserve its exact original pose, gesture, camera, silhouette, anatomy, eyes, markings, tools, hand assignment and tiny XX engraving. SECOND image is the updated COLOR reference only, NOT the pose. Change all red/oxblood body, spine, arms, hands and feet to warm aged brass satin metal (#A27C3E midtone), with champagne highlights and bronze shadows. Globe and stamp casing slightly lighter champagne brass. Preserve ivory tab with three gray lines and black stamp pad. Keep original narrow horizontal black pill eyes, NEVER X eyes. Match second reference materials. Entire silhouette inside frame with ample transparent breathing room. Transparent background, no floor, no shadow or glow, no new text.",
+      "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-3746bc61-2e27-41cd-8975-b26131bb50f6.png"
+    },
+    {
+      "agent": "tariff",
+      "id": "tariff-present-v1",
+      "prompt": "Edit FIRST image ONLY. Preserve its exact original pose, gesture, camera, silhouette, anatomy, eyes, markings, tools, hand assignment and tiny XX engraving. SECOND image is the updated COLOR reference only, NOT the pose. Change all red/oxblood body, spine, arms, hands and feet to warm aged brass satin metal (#A27C3E midtone), with champagne highlights and bronze shadows. Globe and stamp casing slightly lighter champagne brass. Preserve ivory tab with three gray lines and black stamp pad. Keep original narrow horizontal black pill eyes, NEVER X eyes. Match second reference materials. Entire silhouette inside frame with ample transparent breathing room. Transparent background, no floor, no shadow or glow, no new text.",
+      "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-6a73f9b6-2f2e-47e7-813f-78b33e2cb5c1.png"
+    },
+    {
+      "agent": "token",
+      "id": "token-inspect-v1",
+      "prompt": "Edit FIRST image ONLY. Preserve its exact original pose, gesture, camera, silhouette, anatomy, eyes, markings, tools, hand assignment and tiny XX engraving. SECOND image is the updated COLOR reference only, NOT the pose. Change all navy body/backing/curled side, arms and feet to muted plum-purple satin metal (#6B4D78), with subtle lilac highlights and aubergine shadows. Keep ivory receipt, gray arrows and chip exact, preserve brass magnifier and clear lens. Keep original narrow horizontal black pill eyes, NEVER X eyes. Match second reference materials. Entire silhouette inside frame with ample transparent breathing room. Transparent background, no floor, no shadow or glow, no new text.",
+      "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-dbe0c62a-119f-4dc5-983c-5dec27c78bd4.png"
+    },
+    {
+      "agent": "token",
+      "id": "token-present-v1",
+      "prompt": "Edit FIRST image ONLY. Preserve its exact original pose, gesture, camera, silhouette, anatomy, eyes, markings, tools, hand assignment and tiny XX engraving. SECOND image is the updated COLOR reference only, NOT the pose. Change all navy body/backing/curled side, arms and feet to muted plum-purple satin metal (#6B4D78), with subtle lilac highlights and aubergine shadows. Keep ivory receipt, gray arrows and chip exact, preserve brass magnifier and clear lens. Keep original narrow horizontal black pill eyes, NEVER X eyes. Match second reference materials. Entire silhouette inside frame with ample transparent breathing room. Transparent background, no floor, no shadow or glow, no new text.",
+      "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-ac54e71a-265b-4ee9-b731-0997adb76ddb.png"
+    }
+  ],
+  "family": [
+    {
+      "kind": "hero",
+      "prompt": "Localized color edit of FIRST attached transparent four-character image. Keep Shipping parcel OXBLOOD and Ads window INK NAVY exactly as they are. Change ONLY Tariff book's oxblood body/limbs to warm aged BRASS, like SECOND reference, with slightly lighter champagne globe and stamp. Change ONLY Token receipt's navy backing/limbs to muted PLUM PURPLE, like THIRD reference, retaining ivory paper and brass magnifier. Four distinct character colors: red, navy, gold, purple. Original poses, composition, narrow black pill eyes, XX tool engravings, markings and object geometry unchanged. Do NOT add lighting effects, glow, shadows, floor, background, text. Fully transparent background. Keep original framing.",
+      "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-5da40ed0-37bf-4971-9be8-8394377ffe16.png"
+    },
+    {
+      "kind": "lineup",
+      "prompt": "Localized color edit of FIRST attached transparent four-character image. Keep Shipping parcel OXBLOOD and Ads window INK NAVY exactly as they are. Change ONLY Tariff book's oxblood body/limbs to warm aged BRASS, like SECOND reference, with slightly lighter champagne globe and stamp. Change ONLY Token receipt's navy backing/limbs to muted PLUM PURPLE, like THIRD reference, retaining ivory paper and brass magnifier. Four distinct character colors: red, navy, gold, purple. Original poses, composition, narrow black pill eyes, XX tool engravings, markings and object geometry unchanged. Do NOT add lighting effects, glow, shadows, floor, background, text. Fully transparent background. Scale the entire unchanged lineup down slightly inside its transparent canvas so the leftmost hand and rightmost arm have clear 5% side margins; all limbs/tools visible.",
+      "generatedPath": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-232a2541-29b5-48a1-87dd-f8cf0870dbbe.png"
+    }
+  ]
+}

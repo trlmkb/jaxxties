@@ -1,0 +1,203 @@
+{
+  "requests": [
+    {
+      "index": 2,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/shipping/master-v1.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. oxblood burgundy satin metal #7B2E3B, ivory tape and barcode label, graphite scanner with mint cyan light and small engraved XX. ACTION: A small matching oxblood shipping parcel with ivory tape and barcode sits beside the character on viewer left. A brisk curious glance toward the parcel, aim the scanner with the existing hand on viewer left, one short mint cyan scanning sweep across the parcel label, a satisfied small body bob, then lower scanner and return to opening pose. Maintain tiny narrow eyes, continuous hands attached to both arms, stable parcel seams and barcode. No dancing or big jumps."
+      }
+    },
+    {
+      "index": 3,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/ads/master-v1.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. deep ink navy satin metal #1F3A5F, ivory ad window, three ivory browser dots, navy target, dark raised cursor, dark filter paddle with small gold XX on its lower bezel. ACTION: Confident quiet idle with subtle breathing and a short narrow-eye blink. Give the traffic filter paddle a slight inspection tilt while holding it continuously in the hand on viewer right. Return to opening pose. The three browser dots, cursor, target and filter symbol remain rigid and unchanged; no symbols animate."
+      }
+    },
+    {
+      "index": 4,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/ads/master-v1.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. deep ink navy satin metal #1F3A5F, ivory ad window, three ivory browser dots, navy target, dark raised cursor, dark filter paddle with small gold XX on its lower bezel. ACTION: Alert inspector: quick small look left and right, lift the filter paddle held in the hand on viewer right, confidently present it toward the viewer with one small forward gesture, give a restrained happy body bob, then return to original pose. Feet remain near their original positions. Keep cursor, target and all browser details rigid, no morphing or extra icons."
+      }
+    },
+    {
+      "index": 5,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/token/master-v2.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. muted plum satin-metal limbs and receipt-roll frame #6B4D78, ivory paper with dark usage arrows and chip symbol, warm brass magnifying glass with a small engraved XX at the bottom of its rim. ACTION: Quiet thoughtful inspector idle. One slow small magnifier tilt in its existing hand on viewer right, a tiny narrow-eye blink and gentle body breathing, settle precisely back to opening pose. Preserve the paper curl, all usage arrows, chip geometry and serrated paper edge exactly. Magnifier lens remains clear glass, no extra symbols."
+      }
+    },
+    {
+      "index": 6,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/token/master-v2.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. muted plum satin-metal limbs and receipt-roll frame #6B4D78, ivory paper with dark usage arrows and chip symbol, warm brass magnifying glass with a small engraved XX at the bottom of its rim. ACTION: Brisk curious inspection: use the magnifier in its existing hand on viewer right to scan from the top usage arrows down to the chip, tilt its body slightly toward the lens, pause as if spotting a useful finding, then lift the magnifier with a small proud bounce and return to opening pose. No full turn, no high jumps, no paper flapping. Preserve usage arrows and chip; only normal optical enlargement behind the glass."
+      }
+    },
+    {
+      "index": 7,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/tariff/master-v2.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. warm aged brass satin metal #A27C3E, lighter champagne embossed globe, ivory paper with three dark rules, brass stamp with dark pad and small engraved XX on its broad front face. ACTION: Quiet competent idle: subtle breathing, tiny narrow-eye blink, a small look left and right, and a restrained lift of the stamp held in its existing hand on viewer right. Return to original pose. The paper remains seated in the top slot, rigid and steady. Preserve exact globe lines, paper rules, page stack, feet and hands. No stamp press in this calm version."
+      }
+    }
+  ],
+  "submission": {
+    "jobs": [
+      {
+        "index": 2,
+        "job_id": "981cfdb4-a1fb-4116-9a45-9f25c9d24d9d",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 3,
+        "job_id": "2facdac6-89f9-47e7-a4b5-545b40d78867",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 4,
+        "job_id": "8e7dd248-5c44-4740-8b3d-d004946eaee0",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 5,
+        "job_id": "08c5ccb9-b147-4395-9c31-c1e318a5903a",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 6,
+        "job_id": "cf84c0c5-2a04-4a4d-bdd5-339078b53a1a",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 7,
+        "job_id": "94da7761-2e03-4959-ad7c-cfdb05db2977",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      }
+    ],
+    "submitted_count": 6,
+    "failed_count": 0
+  },
+  "costPerClipCredits": 96
+}

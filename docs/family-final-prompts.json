@@ -1,0 +1,12 @@
+[
+  {
+    "id": "family-hero-v3",
+    "prompt": "Make ONE tiny localized color correction to this image. The small hanging arm near the center, at approximately x=47% y=40%, between the red parcel and gold book, belongs to the RED SHIPPING PARCEL. It was accidentally colored gold. Recolor only that small hanging arm to the same oxblood satin material as the red parcel. Keep Tariff book and all of its own parts gold. Everything else exactly unchanged: four characters, group layout, purple token, navy ads, all eyes, tools, XX marks, markings, lighting, texture. Preserve transparent background, no floor, glow or text. Do not move, resize or regenerate any character.",
+    "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-a667b727-d330-44ab-b629-23bcdff782d0.png"
+  },
+  {
+    "id": "family-lineup-v3",
+    "prompt": "Create a transparent group lineup using these EXACT four supplied mascot designs without redesigning them. Left-to-right: Shipping oxblood parcel, Ads ink-navy ad window, Tariff aged-brass book, Token muted-plum receipt. Keep their narrow horizontal black eyes, all distinctive markings, fine satin texture, proportions, tools in their existing hands, and tiny XX engravings on tools. Pose them in a relaxed gently staggered row, every character mostly front-facing with a little personality, no dramatic leaning. Keep each identifiable tool clearly visible. Full bodies, feet and both outer arms fully visible. Make the group occupy only the central 75% of the image WIDTH with obvious empty TRANSPARENT margins on both sides; 10% transparent space above and below. Landscape composition. Completely transparent background, no environment, no floor, no glow or shadows, no text. Four primary colors must stay distinct. Do not crop any part of any character. Do not fuse their arms.",
+    "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-941d55cf-baab-4420-9cce-77efa09fc858.png"
+  }
+]

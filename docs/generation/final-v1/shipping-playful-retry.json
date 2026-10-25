@@ -1,0 +1,66 @@
+{
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "resolution": "1080p",
+    "duration": 6,
+    "aspect_ratio": "1:1",
+    "generate_audio": false,
+    "bitrate_mode": "high",
+    "count": 1,
+    "medias": [
+      {
+        "role": "image",
+        "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/shipping/master-v1.png"
+      }
+    ],
+    "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio.  Oxblood burgundy satin metal #7B2E3B, ivory tape and barcode label. The character MUST exactly match the reference, including handedness: SCANNER ON THE LEFT SIDE OF THE IMAGE, always in the same hand as the reference. Never mirror the reference. Scanner side faces camera so the gold XX engraving remains visible. Matching plain small oxblood parcel is on the LEFT SIDE OF THE IMAGE beside the scanner. ACTION: Small brisk glance toward the parcel, tilt the scanner downward toward its barcode, one quick scanning wrist gesture, a satisfied restrained body bob, then return precisely to the opening pose. Both feet planted. The scanner has only its small mint illuminated window. NO external light beam, NO projected light cone, NO rays, NO particles, NO glow outside the scanner. Keep the barcode, tape, narrow slit eyes and hands stable. The opposite hand hangs relaxed on the RIGHT SIDE OF THE IMAGE. Six seconds total, no cuts, locked camera, full body and parcel with generous margins."
+  },
+  "submission": {
+    "content": [
+      {
+        "type": "text",
+        "text": "This tool provides an auto-updating generation widget for these jobs. Do not call job_display, show_generations, or show_generation_by_ids to display these jobs again, either before or after completion, unless the user explicitly requests a separate display. If you need to await completion, use jobs_wait with timeout_seconds <= 15. Use job_display only if the user explicitly requests a separate re-display of one specific job."
+      },
+      {
+        "type": "text",
+        "text": "Note: adjustments applied — medias[0].role: \"image\" → \"image_references\" (Seedance 2.5 backend expects schema-key media roles).\n\nSubmitted 1 job. If a widget is visible, it polls automatically — do not call job_status or show_generations as a follow-up poll. In text-only clients, use job_status with sync:true to poll for completion.\n- 5ea479f1-23ae-4c33-ae54-20ec0d542f80  \"Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio.  Oxblood burgundy satin metal #7B2E3B, ivory tape and barcode label. The character MUST exactly match the reference, including handedness: SCANNER ON THE LEFT SIDE OF THE IMAGE, always in the same hand as the reference. Never mirror the reference. Scanner side faces camera so the gold XX engraving remains visible. Matching plain small oxblood parcel is on the LEFT SIDE OF THE IMAGE beside the scanner. ACTION: Small brisk glance toward the parcel, tilt the scanner downward toward its barcode, one quick scanning wrist gesture, a satisfied restrained body bob, then return precisely to the opening pose. Both feet planted. The scanner has only its small mint illuminated window. NO external light beam, NO projected light cone, NO rays, NO particles, NO glow outside the scanner. Keep the barcode, tape, narrow slit eyes and hands stable. The opposite hand hangs relaxed on the RIGHT SIDE OF THE IMAGE. Six seconds total, no cuts, locked camera, full body and parcel with generous margins.\""
+      },
+      {
+        "type": "text",
+        "text": "If the user requests a combined display of multiple generations, including jobs submitted through separate generate_* calls, collect all requested job IDs, wait for the complete set with jobs_wait, then call show_generation_by_ids with jobs: [{\"index\":0,\"job_id\":\"<first actual job ID>\"},{\"index\":1,\"job_id\":\"<second actual job ID>\"}, ...]. job_display accepts only one id: never pass ids to it or loop over it to show a group. Do not create an extra display when the existing generation widgets already satisfy the request."
+      }
+    ],
+    "structuredContent": {
+      "results": [
+        {
+          "id": "5ea479f1-23ae-4c33-ae54-20ec0d542f80",
+          "type": "video",
+          "status": "pending",
+          "model": "seedance_2_5",
+          "params": {
+            "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio.  Oxblood burgundy satin metal #7B2E3B, ivory tape and barcode label. The character MUST exactly match the reference, including handedness: SCANNER ON THE LEFT SIDE OF THE IMAGE, always in the same hand as the reference. Never mirror the reference. Scanner side faces camera so the gold XX engraving remains visible. Matching plain small oxblood parcel is on the LEFT SIDE OF THE IMAGE beside the scanner. ACTION: Small brisk glance toward the parcel, tilt the scanner downward toward its barcode, one quick scanning wrist gesture, a satisfied restrained body bob, then return precisely to the opening pose. Both feet planted. The scanner has only its small mint illuminated window. NO external light beam, NO projected light cone, NO rays, NO particles, NO glow outside the scanner. Keep the barcode, tape, narrow slit eyes and hands stable. The opposite hand hangs relaxed on the RIGHT SIDE OF THE IMAGE. Six seconds total, no cuts, locked camera, full body and parcel with generous margins.",
+            "aspect_ratio": "1:1",
+            "duration": 6,
+            "reference_images": [
+              "5a652ed7-88a7-4d94-aeb1-6f414e8592b6"
+            ],
+            "mode": "omni_reference",
+            "resolution": "1080p",
+            "generate_audio": false,
+            "bitrate_mode": "high"
+          }
+        }
+      ],
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "Seedance 2.5 backend expects schema-key media roles"
+        }
+      }
+    },
+    "isError": false
+  },
+  "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3KG0HOX8xk3FBNFdujev1ipf0xV/hf_20261025_105737_5ea479f1-23ae-4c33-ae54-20ec0d542f80.mp4"
+}
