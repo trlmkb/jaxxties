@@ -10,7 +10,7 @@ export function createJaxxtiesMcpServer(origin: string) {
 		'marketing_list_mascots',
 		{
 			description:
-				'List Jaxxton character assets, paths, checksums and approval status. Motion palette studies are not final branded motion.',
+				'List Jaxxton character assets, paths, checksums and review status. Reviewed exports are not automatically approved for production.',
 			inputSchema: { agent: z.enum(['shipping', 'ads', 'tariff', 'token', 'family']).optional() }
 		},
 		async ({ agent }) =>

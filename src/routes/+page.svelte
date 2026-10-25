@@ -14,7 +14,7 @@
 	</div>
 	<div class="intro-art">
 		<img
-			src="/family/family-hero-v3.png"
+			src="/family/family-hero-v4.png"
 			alt="The four Jaxxton agents together"
 			fetchpriority="high"
 		/>
@@ -28,9 +28,7 @@
 	<div class="character-grid">
 		{#each characters as c, i}<a class="character-card" href={'/characters/' + c.key}
 				><div class="card-top">
-					<span class="eyebrow">0{i + 1}</span><span class="status"
-						>{c.key === 'shipping' ? 'Selected direction' : 'Candidate'}</span
-					>
+					<span class="eyebrow">0{i + 1}</span><span class="status">Reference</span>
 				</div>
 				<img src={'/characters/' + c.key + '/' + c.master} alt={c.name + ' agent'} loading="lazy" />
 				<div class="card-bottom">

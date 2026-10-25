@@ -1,0 +1,6 @@
+{
+  "prompt": "Create a compact premium 3D group hero of exactly these four supplied Jaxxton mascots, on a truly transparent background. Preserve each reference exactly: original narrow eyes, proportions, colors, materials, body markings, tools, XX engravings and hand assignments. Arrangement in two natural staggered rows: oxblood Shipping back-left, brass Tariff back-right, plum Token front-left, navy Ads front-right. Every face and tool visible, entire feet and tools within canvas with safe margins. HANDS ARE CRITICAL: Shipping scanner is on VIEWER LEFT; Tariff stamp is on VIEWER RIGHT; Token magnifier is on VIEWER RIGHT; Ads filter paddle is on VIEWER RIGHT, the outer right side of the group. Never mirror their body symbols or switch hands. Relaxed mostly forward gazes with subtle inward head/body tilt, like a composed family portrait, not looking sharply downward. No extra props, no added text, no floor, no cast shadow, no glow. Refined crisp clean transparent edges. Keep exact four distinct colors: oxblood, warm brass, muted plum, deep navy. Tall square 1:1 composition.",
+  "tool": "image_gen",
+  "output": "static/family/family-hero-v4.png",
+  "reason": "Match Ads tool handedness to the canonical reference."
+}

@@ -1,0 +1,36 @@
+{
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "video_edit",
+    "resolution": "1080p",
+    "generate_audio": false,
+    "bitrate_mode": "high",
+    "medias": [
+      {
+        "role": "video",
+        "value": "37047378-b5b2-4e36-914e-5509c127699b"
+      }
+    ],
+    "prompt": "Preserve this exact six-second animation, character design, materials, colors, all small markings and XX tool engraving, correct prop hands and timing. Only widen the locked camera framing: scale the entire character and its complete action to 65 percent of the current size, centered, with generous flat pure chroma green #00FF00 empty space all around. The entire raised paper must remain completely inside the frame with at least 15 percent clear margin above it, including the highest point of both paper lifts. Preserve the free-hand paper grab and opposite-hand vertical stamp action. Keep feet and all props visible every frame, no crop, no zoom, no cuts. Background and floor perfectly uniform green, no shadows or gradients, no green reflected light. Do not blur, simplify, change pose sequence, remove details, or introduce extra movement. Preserve duration and return pose. No audio."
+  },
+  "submission": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Error starting generation: Out of credits on ultra (monthly) plan in Private workspace."
+      }
+    ],
+    "structuredContent": {
+      "error": "Out of credits on ultra (monthly) plan in Private workspace.",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "video",
+          "used": "video_references",
+          "reason": "Seedance 2.5 backend expects schema-key media roles"
+        }
+      },
+      "error_code": "INVALID_ARGUMENT"
+    },
+    "isError": true
+  }
+}

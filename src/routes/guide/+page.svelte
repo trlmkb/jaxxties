@@ -38,18 +38,18 @@
 	<article>
 		<h2>Motion</h2>
 		<p>
-			Keep the original actions and duration. Transparent exports preserve the existing matte;
-			opaque exports use Jaxxton ivory (#F7F6F4). Motion color studies are separate candidates, not
-			automatically approved by selecting a still. Watch paper transitions, tool edges, glints and
-			the loop boundary.
+			Each agent has a calm idle and a playful action, generated with Seedance 2.5 from its
+			reference. Every clip includes transparent WebM, packed-alpha MP4, ivory (#F7F6F4) and dark
+			(#1C090C) MP4 exports, plus a poster. The numbered review sheets cover every frame. Use the
+			included player for packed MP4; use an ordinary video element for the opaque versions.
 		</p>
 	</article>
 	<article>
 		<h2>Source & approval</h2>
 		<p>
-			Shipping direction C is selected. Other Jaxxton references, poses, family compositions and
-			motion are review candidates. The Dashies archive retains all 1,731 source records. Generated
-			artwork is a raster asset, not a rig or editable 3D model.
+			Direction C is selected. This collection contains checked references, poses, family artwork
+			and motion exports; review in your final layout before publishing. The Dashies archive retains
+			all 1,731 source records. Generated artwork is raster media, not a rig or editable 3D model.
 		</p>
 		<a class="text-link" href="https://github.com/trlmkb/jaxxties"
 			>Prompts, provenance & reviews ↗</a

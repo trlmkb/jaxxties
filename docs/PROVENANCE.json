@@ -66,9 +66,9 @@
       "sha256": "9c7edcc14b3a058248618c1f0249f1f8416d559eb884d5489a4fede7e0a0b800"
     },
     {
-      "path": "static/family/family-hero-v3.png",
-      "bytes": 1662469,
-      "sha256": "6d8240bfdcaa41d2bd73b620ea5b074bf6171e128aa5facc296d658f1e627d8d"
+      "path": "static/family/family-hero-v4.png",
+      "bytes": 1995623,
+      "sha256": "a0a58f8ce492b365996897457bd1e5aa3256b1ca7ad44556a9dd3090250894bf"
     },
     {
       "path": "static/family/family-lineup-v3.png",
@@ -76,159 +76,159 @@
       "sha256": "5ac9b81cb8069433f0709ce95bd058436d424f45b236c244b15cb8d7e3bbb247"
     },
     {
-      "path": "static/motion/ads-calm-v2-ivory.mp4",
-      "bytes": 517516,
-      "sha256": "1571e4067898100fe443a21ce657ad27da225a9a93dca7afe1b33ebe160d1e8f"
+      "path": "static/motion/ads-calm-v3-dark.mp4",
+      "bytes": 1730773,
+      "sha256": "d2f68e9b59d9c5293d578843655f376cd7f4119e21a625247218193dc1815136"
     },
     {
-      "path": "static/motion/ads-calm-v2-packed.mp4",
-      "bytes": 702350,
-      "sha256": "56e7271dcce315ce91a31d27ec809b44d2b3feb6e0b835320222dae26191b052"
+      "path": "static/motion/ads-calm-v3-ivory.mp4",
+      "bytes": 1731391,
+      "sha256": "9fbdac3bcfde66aabf7c596974b5d1242126277b93cf342d06b95933693ce5db"
     },
     {
-      "path": "static/motion/ads-calm-v2.webm",
-      "bytes": 538959,
-      "sha256": "5a0ef80ede3abd6efc047b438bb9a0b3e961b9f6dd94937ea81623feff3a0687"
+      "path": "static/motion/ads-calm-v3-packed.mp4",
+      "bytes": 2259601,
+      "sha256": "3383dd23e331f074edd4ce3ba0b4f9c4cfcec19c0fce61c60a5e63302977bd4d"
     },
     {
-      "path": "static/motion/ads-calm-v2.webp",
-      "bytes": 139902,
-      "sha256": "e80ba632ceaf1fb158d3449fbf258dee5183c596d4142b84b9a03c2e219a7847"
+      "path": "static/motion/ads-calm-v3.webm",
+      "bytes": 1213323,
+      "sha256": "1060e702e45c4005d79b2dcd9b5e74d1e6447994b542f2f693c22ab5dd707c69"
     },
     {
-      "path": "static/motion/ads-playful-v2-ivory.mp4",
-      "bytes": 653488,
-      "sha256": "034437da18d1df0350f3191e2124a42a0aae45a2839ef23b8972ff29021de671"
+      "path": "static/motion/ads-calm-v3.webp",
+      "bytes": 545992,
+      "sha256": "e97126fe5f4ac372fe8f83ddf51a1c838e8b1bf8c80503aa3df0cd74ae206229"
     },
     {
-      "path": "static/motion/ads-playful-v2-packed.mp4",
-      "bytes": 975280,
-      "sha256": "fe6c22770a619e61464830816ef51658d19d28a23b7657b73b56f5868536876f"
+      "path": "static/motion/ads-playful-v3-dark.mp4",
+      "bytes": 2208223,
+      "sha256": "1035d39b4677f6d3582a65885aea18c4f05d1cc78c51fbc3f9d75e1e7e8b4b85"
     },
     {
-      "path": "static/motion/ads-playful-v2.webm",
-      "bytes": 863747,
-      "sha256": "1e287a63c0c2f3d4de375e2ddf307e9a27d1cf98a84bfbd70f6bed85860c3c4a"
+      "path": "static/motion/ads-playful-v3-ivory.mp4",
+      "bytes": 2231037,
+      "sha256": "037051c4f477778f2ca877ac6549a0711efded725a39425400c97cd11ba299b6"
     },
     {
-      "path": "static/motion/ads-playful-v2.webp",
-      "bytes": 140364,
-      "sha256": "d54fe88e22ee079762549a6d04c2fde7154b2cce0b6a5245df79152154acb89c"
+      "path": "static/motion/ads-playful-v3-packed.mp4",
+      "bytes": 2860941,
+      "sha256": "b64237490dbe6f8ec8089f1a64d2a9eeb0b1e721b5fe1fc61e0841dc5ac2999b"
+    },
+    {
+      "path": "static/motion/ads-playful-v3.webm",
+      "bytes": 1924917,
+      "sha256": "9aec0146d4c5ab28a1e0a0cd7caed894bff5fe52077a22aba0a72f6bd3b42756"
+    },
+    {
+      "path": "static/motion/ads-playful-v3.webp",
+      "bytes": 451076,
+      "sha256": "0a1fbff7b40972cfbf2091a2460b4f343a146f86972c7cded2556d938820170c"
     },
     {
       "path": "static/motion/manifest.json",
-      "bytes": 9314,
-      "sha256": "2333eff429b228cf6307862fe84faa9fdb638bf8ca675102b10dd97d78127622"
+      "bytes": 6563,
+      "sha256": "e3df85f827a67d68c2709d846bb15ba6d2fa7328d594e6d796c68898feb395df"
     },
     {
-      "path": "static/motion/shipping-playful-v2-ivory.mp4",
-      "bytes": 986063,
-      "sha256": "d6e4387e419a488a6c07eb93e328c229f18414abfea5030a37ef9260c82f15b6"
+      "path": "static/motion/shipping-calm-v3-dark.mp4",
+      "bytes": 2509118,
+      "sha256": "4798b1a333c14ddeec61fcff4c11134030d7387d8229a7eba9706d0d2c403a07"
     },
     {
-      "path": "static/motion/shipping-playful-v2-packed.mp4",
-      "bytes": 1226560,
-      "sha256": "c918a2273427e4ff9885e3490f46d5f602fe882f4d3882c55dc717948b9a8556"
+      "path": "static/motion/shipping-calm-v3-ivory.mp4",
+      "bytes": 2455864,
+      "sha256": "e4f8cd6b5679cde75b0db6e7cae7e3c103a289a6b5674d2015d409a1f693fb43"
     },
     {
-      "path": "static/motion/shipping-playful-v2.webm",
-      "bytes": 1089409,
-      "sha256": "4b439925cee37ec5050a0a793c02bebd4fa932665c5ee3e6cbdd03ea0bb31344"
+      "path": "static/motion/shipping-calm-v3-packed.mp4",
+      "bytes": 3236813,
+      "sha256": "d43c60fb95f04b6f55b4d81b36ef464da8971374ba4d4ee2d1b015af1123a68b"
     },
     {
-      "path": "static/motion/shipping-playful-v2.webp",
-      "bytes": 188210,
-      "sha256": "611a730712537a8d71418ed6255f1d9e18f3c5ce3656221cccc26c4f955073d7"
+      "path": "static/motion/shipping-calm-v3.webm",
+      "bytes": 2177365,
+      "sha256": "d6f2215a931a41db45c0995b6553dc28cda78690dbb6ebaccfbfb02a37b82c2a"
     },
     {
-      "path": "static/motion/tariff-calm-v2-ivory.mp4",
-      "bytes": 859579,
-      "sha256": "80cca46fdedf07cfb995ac7620a48d59c1fa34178d33513e243c9e2343b4306f"
+      "path": "static/motion/shipping-calm-v3.webp",
+      "bytes": 544252,
+      "sha256": "d64b30767fcf4171957af570d8aa70c06dce15d31d73a31613b812dbd81542da"
     },
     {
-      "path": "static/motion/tariff-calm-v2-packed.mp4",
-      "bytes": 1333365,
-      "sha256": "562ee1397e83f2c5276e4342d6d948fdf003d2ca79a0411846c87553dfc0456d"
+      "path": "static/motion/sources/ads-calm-seedance-v1.mp4",
+      "bytes": 2164933,
+      "sha256": "3c80a29696b460b39d7de1a72ee0cc584c096b056cc02b9be8d2bad64262e1af"
     },
     {
-      "path": "static/motion/tariff-calm-v2.webm",
-      "bytes": 854628,
-      "sha256": "9ea2f16967bcb90ad4c4ed7de862e2a409acc502c0adffdb56ef025cdc939156"
+      "path": "static/motion/sources/ads-playful-seedance-v1.mp4",
+      "bytes": 3109366,
+      "sha256": "52220b2ed464c6c99299a2c01878d1762287851b4cb1e48d0dfe672c5aace6df"
     },
     {
-      "path": "static/motion/tariff-calm-v2.webp",
-      "bytes": 258666,
-      "sha256": "5a201da5aad10fe10cb165b92dfac0558c9a60375a9d7ca77b13029f3b0cf0b0"
+      "path": "static/motion/sources/shipping-calm-seedance-v1.mp4",
+      "bytes": 3083749,
+      "sha256": "33d4ee7f1c5f47fc144fd90d7c1468d98906bfc5af0c58889f5cd567ba17bb63"
     },
     {
-      "path": "static/motion/tariff-page-v2-ivory.mp4",
-      "bytes": 573172,
-      "sha256": "7f5b88be7023986df79e14125bacc683c89789c9bbbc074030c60e2e9260e081"
+      "path": "static/motion/sources/tariff-calm-seedance-v1.mp4",
+      "bytes": 3398490,
+      "sha256": "af105141cb4e01b2fed82fc3abb75e0917c755ddcdbd75bd35387ef1da7af7f3"
     },
     {
-      "path": "static/motion/tariff-page-v2.webp",
-      "bytes": 113078,
-      "sha256": "28daaee6c521e2f5ba148748a4bf54f932332c8e0ec3fe173e3b4bc4f8a36d29"
+      "path": "static/motion/sources/token-calm-seedance-v1.mp4",
+      "bytes": 1944187,
+      "sha256": "05aec1ddab24c09a6f1c889e118c582cf79087e2768428dbd7c8218bf201e753"
     },
     {
-      "path": "static/motion/tariff-playful-v2-ivory.mp4",
-      "bytes": 292582,
-      "sha256": "30c0e95aa736b772ed4989bc7c4810c7d814c1bc488aca21e614c9e6cd2213ac"
+      "path": "static/motion/tariff-calm-v3-dark.mp4",
+      "bytes": 2138157,
+      "sha256": "9df0863ef3b1b4a46571c1a209e8f6888c8231ff4f6bf0e7591969329a1deec3"
     },
     {
-      "path": "static/motion/tariff-playful-v2-packed.mp4",
-      "bytes": 768159,
-      "sha256": "3053eb8ba377343ed9435e88f2a6c2c73934c4f66dd3e1a73194f44aa63968d5"
+      "path": "static/motion/tariff-calm-v3-ivory.mp4",
+      "bytes": 2146302,
+      "sha256": "22d925665b82dcd48ca8f276d87df0f10d80f5f5b6865d320fe53a8bd242cf8f"
     },
     {
-      "path": "static/motion/tariff-playful-v2.webm",
-      "bytes": 526950,
-      "sha256": "9a55aca72a72ab281320d27f6b328d979d0ec928cdc625d739d0d953ca9f2bc1"
+      "path": "static/motion/tariff-calm-v3-packed.mp4",
+      "bytes": 3063910,
+      "sha256": "df3e368e8f9f12ea48beaf609504aafb50c0a41cb7b37a5e43718f6cc560f921"
     },
     {
-      "path": "static/motion/tariff-playful-v2.webp",
-      "bytes": 69470,
-      "sha256": "83c242fbe2afeb9765cb1eed5d7f507d074d6d305152e4be9ca69cffef03ba64"
+      "path": "static/motion/tariff-calm-v3.webm",
+      "bytes": 2481620,
+      "sha256": "5098d4b42200840bb56f59f9ed76af9f00f8c3759261718844dadeb537f1e12e"
     },
     {
-      "path": "static/motion/token-calm-v2-ivory.mp4",
-      "bytes": 403594,
-      "sha256": "7fc075eb0d80205bb6f834f6738f94f753a073e55b3f424a287d114d879d98a2"
+      "path": "static/motion/tariff-calm-v3.webp",
+      "bytes": 492422,
+      "sha256": "891febf9c655bef2ba8cc9059baed19caa0945ab4eaddf47399833112c1e4c76"
     },
     {
-      "path": "static/motion/token-calm-v2-packed.mp4",
-      "bytes": 568258,
-      "sha256": "a2e1a3e78a3a311c02f6308bd1af2f27e1f49e3748b9300c2034a2331d9c7a57"
+      "path": "static/motion/token-calm-v3-dark.mp4",
+      "bytes": 1512027,
+      "sha256": "1e520370a026993c8c32bc86550ce5bf78b5cdafa80cc5917bfd412630cd91c5"
     },
     {
-      "path": "static/motion/token-calm-v2.webm",
-      "bytes": 380518,
-      "sha256": "94b0d4146c9319a93a208f58a1e299f4d20da1185bca2dbea38e8712b957a119"
+      "path": "static/motion/token-calm-v3-ivory.mp4",
+      "bytes": 1514252,
+      "sha256": "0bbdc0cb7d65e279bb3b23f0b023ff3b00ee5f76ab105f083a6830b9002ff97e"
     },
     {
-      "path": "static/motion/token-calm-v2.webp",
-      "bytes": 155004,
-      "sha256": "14cf166fb7c04d085d68ec0ee4e4f44d98a97df0e5ed40f1c095fffc5aa58f67"
+      "path": "static/motion/token-calm-v3-packed.mp4",
+      "bytes": 2083984,
+      "sha256": "ff466c46f2dd3a5bd086e16930d13ec348f8d1e0a84d8961a822c114327551d2"
     },
     {
-      "path": "static/motion/token-playful-v2-ivory.mp4",
-      "bytes": 661367,
-      "sha256": "226584565f9c7260794099762e89a76307c8d694ffaa92b5741ec414df14707c"
+      "path": "static/motion/token-calm-v3.webm",
+      "bytes": 1308916,
+      "sha256": "ab208f81be97616ab0a858fdced8275dca887be4f36f5734b23b838af7b6a2e2"
     },
     {
-      "path": "static/motion/token-playful-v2-packed.mp4",
-      "bytes": 796190,
-      "sha256": "4d258f3d30435179771b42b5d429d8d00bd766ea87af72b0ecdea8aa5c099805"
-    },
-    {
-      "path": "static/motion/token-playful-v2.webm",
-      "bytes": 644054,
-      "sha256": "b0ad229cdfd118b55ffacb9b927499571af85fefa7b8c50764695291860bc32a"
-    },
-    {
-      "path": "static/motion/token-playful-v2.webp",
-      "bytes": 258348,
-      "sha256": "044251333e6e9e8c553a3f8deffcc73ede4a7f710033ff3d2ffb75b5572223dc"
+      "path": "static/motion/token-calm-v3.webp",
+      "bytes": 444482,
+      "sha256": "5f6dd1b7f60493264fdcefc353f1c8213ed6a425a6baa28089baf6300a477839"
     },
     {
       "path": "static/references/ads-dashies.png",
@@ -291,6 +291,11 @@
       "sha256": "7ab35d2b82624414f7c786849cb8289e18ee70e27bd58aa161a445307a1b2ced"
     },
     {
+      "path": "static/history/family/family-hero-v3.png",
+      "bytes": 1662469,
+      "sha256": "6d8240bfdcaa41d2bd73b620ea5b074bf6171e128aa5facc296d658f1e627d8d"
+    },
+    {
       "path": "static/history/family/family-lineup-v1.png",
       "bytes": 1134606,
       "sha256": "a81f7663dc83762f5cd4ee6671cfd300abe7349974ac19030f86a4188d050f04"
@@ -321,6 +326,26 @@
       "sha256": "e80ba632ceaf1fb158d3449fbf258dee5183c596d4142b84b9a03c2e219a7847"
     },
     {
+      "path": "static/history/motion/ads-calm-v2-ivory.mp4",
+      "bytes": 517516,
+      "sha256": "1571e4067898100fe443a21ce657ad27da225a9a93dca7afe1b33ebe160d1e8f"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v2-packed.mp4",
+      "bytes": 702350,
+      "sha256": "56e7271dcce315ce91a31d27ec809b44d2b3feb6e0b835320222dae26191b052"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v2.webm",
+      "bytes": 538959,
+      "sha256": "5a0ef80ede3abd6efc047b438bb9a0b3e961b9f6dd94937ea81623feff3a0687"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v2.webp",
+      "bytes": 139902,
+      "sha256": "e80ba632ceaf1fb158d3449fbf258dee5183c596d4142b84b9a03c2e219a7847"
+    },
+    {
       "path": "static/history/motion/ads-playful-v1-ivory.mp4",
       "bytes": 653488,
       "sha256": "034437da18d1df0350f3191e2124a42a0aae45a2839ef23b8972ff29021de671"
@@ -339,6 +364,151 @@
       "path": "static/history/motion/ads-playful-v1.webp",
       "bytes": 140364,
       "sha256": "d54fe88e22ee079762549a6d04c2fde7154b2cce0b6a5245df79152154acb89c"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v2-ivory.mp4",
+      "bytes": 653488,
+      "sha256": "034437da18d1df0350f3191e2124a42a0aae45a2839ef23b8972ff29021de671"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v2-packed.mp4",
+      "bytes": 975280,
+      "sha256": "fe6c22770a619e61464830816ef51658d19d28a23b7657b73b56f5868536876f"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v2.webm",
+      "bytes": 863747,
+      "sha256": "1e287a63c0c2f3d4de375e2ddf307e9a27d1cf98a84bfbd70f6bed85860c3c4a"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v2.webp",
+      "bytes": 140364,
+      "sha256": "d54fe88e22ee079762549a6d04c2fde7154b2cce0b6a5245df79152154acb89c"
+    },
+    {
+      "path": "static/history/motion/manifest-v2.json",
+      "bytes": 9314,
+      "sha256": "2333eff429b228cf6307862fe84faa9fdb638bf8ca675102b10dd97d78127622"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-seedance-v1.mp4",
+      "bytes": 2842777,
+      "sha256": "c9ba254785bae836d17ae514d462901c2be8cbc08c91180f529f74630429f06f"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-seedance-v2.mp4",
+      "bytes": 2694376,
+      "sha256": "1351407d06f8a231b36ba293cf73b3e2a8b84f135d546db457f820a0ece0d827"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v3-dark.mp4",
+      "bytes": 1605658,
+      "sha256": "a02d2f1d3ff3fcc375ab39ddca6d998971d63984d1dcbd1acc44eba4d7c2bc9a"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v3-ivory.mp4",
+      "bytes": 1572719,
+      "sha256": "de80a69a9feed5880bd84a92910e75173f85663689beec4f103ede1de7303caa"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v3-packed.mp4",
+      "bytes": 2300386,
+      "sha256": "62ba47667514cae939b9fcc3c82163223b00662ab08a5ed1e824abc53449850d"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v3.webm",
+      "bytes": 1854300,
+      "sha256": "093b1b67d3f52af731a43710fe7e77685e514629ca09084e5f6167a54f81ff98"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v3.webp",
+      "bytes": 328852,
+      "sha256": "155a48ab3c05e7bb1105bda1f5ec18b142a8158d632dba144eb970c77ba59365"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v4-dark.mp4",
+      "bytes": 1754265,
+      "sha256": "27181082cb0155f51217bece19b7b349f8f7499f2f54aa996de4cc1d9e0f67fe"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v4-ivory.mp4",
+      "bytes": 1750024,
+      "sha256": "bd3b513295a9c641228ac796e0e46fdad67e636e75ebb4600155a37eb893339e"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v4-packed.mp4",
+      "bytes": 2229458,
+      "sha256": "4f19529e4e844d65408334e01b0659413d24566ff9a488d2b9307dcf4540c4c3"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v4.webm",
+      "bytes": 1552242,
+      "sha256": "98abe6d8b3573c5d356ec8a5ceae0d27ce9134e27e2a74c1f4909f731c2fe433"
+    },
+    {
+      "path": "static/history/motion/rejected/shipping-playful-v4.webp",
+      "bytes": 432078,
+      "sha256": "7b97da4be4165808bf69e97b3307919b31f614c2efba36523ed1fa4f1e6ba169"
+    },
+    {
+      "path": "static/history/motion/rejected/tariff-playful-seedance-v1.mp4",
+      "bytes": 4125418,
+      "sha256": "a42d77714488ca122b85e84fa290f7aa6105b1e53b2452b19727d9e059c8cd5e"
+    },
+    {
+      "path": "static/history/motion/rejected/tariff-playful-v3-dark.mp4",
+      "bytes": 2183596,
+      "sha256": "36ee47ae9d0f0fbe8638fc66bb3013bb5825242214b0f0beda0d65c8bc66b0b2"
+    },
+    {
+      "path": "static/history/motion/rejected/tariff-playful-v3-ivory.mp4",
+      "bytes": 2225690,
+      "sha256": "03fdd64f80392d00d8d9c11705caca94b5232a2c0085ffd973d274402884a736"
+    },
+    {
+      "path": "static/history/motion/rejected/tariff-playful-v3-packed.mp4",
+      "bytes": 2880094,
+      "sha256": "26a78e50856a1c7a61e487f71c815e2b77465f20c131d212f33c126edc157f27"
+    },
+    {
+      "path": "static/history/motion/rejected/tariff-playful-v3.webm",
+      "bytes": 2341350,
+      "sha256": "ac68407df4c1473a346a5bd66a1a3db35311ea29b025905c0993977d10c1e2e7"
+    },
+    {
+      "path": "static/history/motion/rejected/tariff-playful-v3.webp",
+      "bytes": 471356,
+      "sha256": "c20613231468abc1fc452cf4865b602661cae0a4dcf576eef4b5fa6a49a0671d"
+    },
+    {
+      "path": "static/history/motion/rejected/token-playful-seedance-v1.mp4",
+      "bytes": 2919150,
+      "sha256": "3d9f84270828767e6f14b40bacb483e21c9290821c86afe5d19c2e70d459427f"
+    },
+    {
+      "path": "static/history/motion/rejected/token-playful-v3-dark.mp4",
+      "bytes": 1920744,
+      "sha256": "fd6c7920de82ed1eef7dc486ac21db683f15f5a238fd81b9702ac23c5ba974d3"
+    },
+    {
+      "path": "static/history/motion/rejected/token-playful-v3-ivory.mp4",
+      "bytes": 1922618,
+      "sha256": "3f29d34d7f1a548c1dfd1db734a5e3a4fd0f8cc7ef55750b2cb28043fec48463"
+    },
+    {
+      "path": "static/history/motion/rejected/token-playful-v3-packed.mp4",
+      "bytes": 2719843,
+      "sha256": "56d1b6d75c5802587e3765bb96a6024d2763641d1f15860ee9d90d1c8f224eb4"
+    },
+    {
+      "path": "static/history/motion/rejected/token-playful-v3.webm",
+      "bytes": 2122909,
+      "sha256": "3f47b0a8c78476070a818fc93be64482e7a011f0203ffd4f8d13662e84b2eb01"
+    },
+    {
+      "path": "static/history/motion/rejected/token-playful-v3.webp",
+      "bytes": 380626,
+      "sha256": "804248c33e73ad5bb9d959fb7361e44d6235e0c9f6ea8f3757658ee578fda618"
     },
     {
       "path": "static/history/motion/shipping-playful-v1-ivory.mp4",
@@ -361,6 +531,26 @@
       "sha256": "c3bde4979094d70429747e42e999c3cb2f6ee11d8bee80abd08e07f9294aeb8e"
     },
     {
+      "path": "static/history/motion/shipping-playful-v2-ivory.mp4",
+      "bytes": 986063,
+      "sha256": "d6e4387e419a488a6c07eb93e328c229f18414abfea5030a37ef9260c82f15b6"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v2-packed.mp4",
+      "bytes": 1226560,
+      "sha256": "c918a2273427e4ff9885e3490f46d5f602fe882f4d3882c55dc717948b9a8556"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v2.webm",
+      "bytes": 1089409,
+      "sha256": "4b439925cee37ec5050a0a793c02bebd4fa932665c5ee3e6cbdd03ea0bb31344"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v2.webp",
+      "bytes": 188210,
+      "sha256": "611a730712537a8d71418ed6255f1d9e18f3c5ce3656221cccc26c4f955073d7"
+    },
+    {
       "path": "static/history/motion/tariff-calm-v1-ivory.mp4",
       "bytes": 1006597,
       "sha256": "20a07023e62f9d24c02e70552bfc114cfc37e3a0b4234696a13620dcde238976"
@@ -381,6 +571,26 @@
       "sha256": "9efad62cd690e5503e31b6f950f081cda0e0dd57f189915091f244c792ced47d"
     },
     {
+      "path": "static/history/motion/tariff-calm-v2-ivory.mp4",
+      "bytes": 859579,
+      "sha256": "80cca46fdedf07cfb995ac7620a48d59c1fa34178d33513e243c9e2343b4306f"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v2-packed.mp4",
+      "bytes": 1333365,
+      "sha256": "562ee1397e83f2c5276e4342d6d948fdf003d2ca79a0411846c87553dfc0456d"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v2.webm",
+      "bytes": 854628,
+      "sha256": "9ea2f16967bcb90ad4c4ed7de862e2a409acc502c0adffdb56ef025cdc939156"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v2.webp",
+      "bytes": 258666,
+      "sha256": "5a201da5aad10fe10cb165b92dfac0558c9a60375a9d7ca77b13029f3b0cf0b0"
+    },
+    {
       "path": "static/history/motion/tariff-page-v1-ivory.mp4",
       "bytes": 683234,
       "sha256": "974211020bae893c9592cfa362c26c50d5aef2e5dbc57c2b1c3fb0004a3b19e8"
@@ -389,6 +599,16 @@
       "path": "static/history/motion/tariff-page-v1.webp",
       "bytes": 121104,
       "sha256": "97780be6b13ee77316b559a90498061840765a0852a34e43ec0cf3208cfec8df"
+    },
+    {
+      "path": "static/history/motion/tariff-page-v2-ivory.mp4",
+      "bytes": 573172,
+      "sha256": "7f5b88be7023986df79e14125bacc683c89789c9bbbc074030c60e2e9260e081"
+    },
+    {
+      "path": "static/history/motion/tariff-page-v2.webp",
+      "bytes": 113078,
+      "sha256": "28daaee6c521e2f5ba148748a4bf54f932332c8e0ec3fe173e3b4bc4f8a36d29"
     },
     {
       "path": "static/history/motion/tariff-playful-v1-ivory.mp4",
@@ -411,6 +631,26 @@
       "sha256": "5b5c339fc0c3cb14e5a34b84423d1f22bb1ee71cc7bd8ae2a5481039bfd147eb"
     },
     {
+      "path": "static/history/motion/tariff-playful-v2-ivory.mp4",
+      "bytes": 292582,
+      "sha256": "30c0e95aa736b772ed4989bc7c4810c7d814c1bc488aca21e614c9e6cd2213ac"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v2-packed.mp4",
+      "bytes": 768159,
+      "sha256": "3053eb8ba377343ed9435e88f2a6c2c73934c4f66dd3e1a73194f44aa63968d5"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v2.webm",
+      "bytes": 526950,
+      "sha256": "9a55aca72a72ab281320d27f6b328d979d0ec928cdc625d739d0d953ca9f2bc1"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v2.webp",
+      "bytes": 69470,
+      "sha256": "83c242fbe2afeb9765cb1eed5d7f507d074d6d305152e4be9ca69cffef03ba64"
+    },
+    {
       "path": "static/history/motion/token-calm-v1-ivory.mp4",
       "bytes": 403708,
       "sha256": "4df19241b319ec6fd351daf0f59f6087dd87ae66c655a18a7f61609324db1daa"
@@ -431,6 +671,26 @@
       "sha256": "f437fc72432b0d72b8225660f24d06f757e570ffb89f6266aa31ef3e4edb956a"
     },
     {
+      "path": "static/history/motion/token-calm-v2-ivory.mp4",
+      "bytes": 403594,
+      "sha256": "7fc075eb0d80205bb6f834f6738f94f753a073e55b3f424a287d114d879d98a2"
+    },
+    {
+      "path": "static/history/motion/token-calm-v2-packed.mp4",
+      "bytes": 568258,
+      "sha256": "a2e1a3e78a3a311c02f6308bd1af2f27e1f49e3748b9300c2034a2331d9c7a57"
+    },
+    {
+      "path": "static/history/motion/token-calm-v2.webm",
+      "bytes": 380518,
+      "sha256": "94b0d4146c9319a93a208f58a1e299f4d20da1185bca2dbea38e8712b957a119"
+    },
+    {
+      "path": "static/history/motion/token-calm-v2.webp",
+      "bytes": 155004,
+      "sha256": "14cf166fb7c04d085d68ec0ee4e4f44d98a97df0e5ed40f1c095fffc5aa58f67"
+    },
+    {
       "path": "static/history/motion/token-playful-v1-ivory.mp4",
       "bytes": 659882,
       "sha256": "e9ca3502f464572701bb8b6ad313e06b40de0b98f0b58b8e37793c140b1cd8a9"
@@ -449,6 +709,27 @@
       "path": "static/history/motion/token-playful-v1.webp",
       "bytes": 259412,
       "sha256": "ca888f6d731c32f6afb50cd0edf1ea8cda29e9ea658babc1c73e781f9891d3d4"
+    },
+    {
+      "path": "static/history/motion/token-playful-v2-ivory.mp4",
+      "bytes": 661367,
+      "sha256": "226584565f9c7260794099762e89a76307c8d694ffaa92b5741ec414df14707c"
+    },
+    {
+      "path": "static/history/motion/token-playful-v2-packed.mp4",
+      "bytes": 796190,
+      "sha256": "4d258f3d30435179771b42b5d429d8d00bd766ea87af72b0ecdea8aa5c099805"
+    },
+    {
+      "path": "static/history/motion/token-playful-v2.webm",
+      "bytes": 644054,
+      "sha256": "b0ad229cdfd118b55ffacb9b927499571af85fefa7b8c50764695291860bc32a"
+    },
+    {
+      "path": "static/history/motion/token-playful-v2.webp",
+      "bytes": 258348,
+      "sha256": "044251333e6e9e8c553a3f8deffcc73ede4a7f710033ff3d2ffb75b5572223dc"
     }
-  ]
+  ],
+  "motionStatus": "Five reviewed performances; three playful corrections remain blocked on generation credits. See REVIEW-final-v1.md."
 }

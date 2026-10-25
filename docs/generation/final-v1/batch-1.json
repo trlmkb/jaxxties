@@ -1,0 +1,76 @@
+{
+  "requests": [
+    {
+      "index": 0,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/shipping/master-v1.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. oxblood burgundy satin metal #7B2E3B, ivory parcel tape and barcode label, graphite scanner with mint cyan light. A small engraved XX stays on the scanner side. ACTION: Quiet alert idle: a small breathing bob, a brief narrow-eye blink, a modest glance left then right, and a slight confident scanner lift. Both boots remain planted. The scanner is held in the character's right hand, on viewer left. Return smoothly to the opening pose."
+      }
+    },
+    {
+      "index": 1,
+      "params": {
+        "model": "seedance_2_5",
+        "mode": "omni_reference",
+        "resolution": "1080p",
+        "duration": 6,
+        "aspect_ratio": "1:1",
+        "generate_audio": false,
+        "bitrate_mode": "high",
+        "count": 1,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://raw.githubusercontent.com/trlmkb/jaxxties/39527a9460c255369ec222bba671ed34a9b8ce0c/static/characters/tariff/master-v2.png"
+          }
+        ],
+        "prompt": "Premium 3D mascot animation of the EXACT character in the image reference. Match reference silhouette, materials, body markings, props, correct hands, small XX tool engraving, tiny narrow horizontal black eyes, rounded limbs and feet. Single character only. Locked straight-on studio camera, no cuts, no zoom. Full body and every prop visible at all times; character occupies approximately 55 percent of frame height at rest, leaving at least 15 percent empty margin above the highest raised prop and below feet. Smooth confident quick gestures separated by short readable pauses; no slow motion, no rubbery morphing. Rigid details and engraving remain attached to their physical surfaces; no shimmer, flicker or changing symbols. Seamless six-second action that settles back to the initial pose. Flat perfectly uniform pure chroma green #00FF00 background and floor, no gradients, no shadow on background, no green light or green spill on the character. No captions, no additional text, no watermark, no audio. warm aged brass satin metal #A27C3E, lighter champagne embossed globe, ivory paper with three dark rules and brass stamp with dark pad. A small engraved XX stays on the broad stamp base. ACTION: Lively but precise customs clerk: look briefly left and right using a small body glance, then use the free hand on viewer left (character's right) to pull a single ivory paper from the top slot. Hold this paper horizontally in front of the body. The stamp stays in the hand on viewer right (character's left); give the paper one quick vertical downward stamp press and lift the stamp back up. Return paper into the top slot, return to the opening pose. No foot stamping, no full turn, no waving the stamp sideways. Narrow slit eyes stay narrow. The paper slot, book spine and globe remain rigid and stable; no changing shapes."
+      }
+    }
+  ],
+  "submission": {
+    "jobs": [
+      {
+        "index": 0,
+        "job_id": "490889b8-21ce-4b1c-ae62-65efb5fc3816",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 1,
+        "job_id": "37047378-b5b2-4e36-914e-5509c127699b",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "Seedance 2.5 backend expects schema-key media roles"
+          }
+        }
+      }
+    ],
+    "submitted_count": 2,
+    "failed_count": 0
+  },
+  "created": "2026-10-25",
+  "costPerClipCredits": 96
+}

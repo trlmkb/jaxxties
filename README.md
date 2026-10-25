@@ -1,6 +1,6 @@
 # Jaxxties
 
-The Jaxxton character library, adapted from Dashies with the selected direction C: original narrow eyes, recognizable object characters and discreet XX tool details in the still artwork.
+The Jaxxton character library, adapted from Dashies with the selected direction C: original narrow eyes, recognizable object characters and discreet XX tool details through the character artwork and new motion references.
 
 ## Four characters, four colors
 
@@ -16,14 +16,17 @@ Brass and plum extend the mascot palette to distinguish the four roles. These ar
 ## Collection and status
 
 - Four master references, seven poses and two transparent family compositions.
-- Eight motion color studies, with 994 source frames in total. Exports include transparent VP9 WebM, packed-alpha H.264 MP4, ivory MP4 and posters as applicable.
-- 43 active downloadable files, indexed with SHA-256 checksums and review status.
-- A searchable index of all 1,731 historical Dashies records, linked to the immutable source revision. Historical media is not duplicated or relabeled as Jaxxton artwork.
-- Original comparison, light/dark/checker previews, pause controls, reduced-motion handling, downloads, JSON registry and read-only MCP tools.
+- Five reviewed Seedance 2.5 movies: calm for all four agents and playful for Ads. Each is 145 frames at 24 fps (6.042 seconds); 725 active frames total.
+- Every movie includes alpha VP9 WebM, packed-alpha H.264, ivory and dark H.264, a transparent poster, the original green-screen source and numbered frame-review sheets.
+- 43 active downloadable files, including the five source movies, indexed with SHA-256 checksums and review status.
+- Searchable index of all 1,731 historical Dashies records at an immutable source revision. Historical media is not relabeled as Jaxxton artwork.
+- Original comparisons, light/dark/checker previews, pause controls, reduced-motion handling, JSON registry and read-only MCP tools.
 
-Shipping direction C was selected. Other masters, poses, family artwork and motion remain review candidates. **Motion is a palette study, not finished branded animation:** original motion and edge defects may remain, and XX tool engravings have not been tracked into the clips. The still references are the identity authority. The old Shipping calm source remains in the archive; this release rebuilds the eight available selected exports, not every historical experiment.
+**Remaining work:** the playful Shipping, Tariff and Token movies are withheld. Shipping's scanner changes hands; Tariff's raised paper and Token's lifted magnifier clip their source frames. Their rejected takes and review evidence are preserved under `static/history/motion/rejected` and `static/reviews/final-v1`. Replacement requests could not be submitted because Higgsfield reported exhausted credits. Exact pending prompts are in `docs/generation/final-v1`.
 
-No production website integration or automatic promotion is performed by this library. Generated PNGs are raster artwork, not editable meshes or rigs.
+Shipping direction C was selected. The other stills remain candidates; `reviewed-export` records the technical/visual review of new movies, not user approval or production readiness in every layout. Small generated texture and engraving variations may remain. Source artwork is the identity authority.
+
+No production website integration or automatic merge is performed. Generated PNGs and movies are raster media, not editable meshes or rigs.
 
 ## Run and validate
 
@@ -43,7 +46,7 @@ The app uses SvelteKit with the Vercel adapter. Deploy feature branches as previ
 - `static/characters/`: current versioned master references and poses.
 - `static/family/`: current hero and lineup compositions.
 - `static/motion/manifest.json`: clip paths, source hashes, dimensions, frame counts, duration, crop and limitations.
-- `static/reviews/motion/`: numbered contact sheets and metrics for every exported source frame. Sheets use a light/dark split; thumbnails are inspection aids, not the export aspect ratio.
+- `static/reviews/final-v1/`: numbered contact sheets and metrics for every exported source frame. Sheets use a light/dark split, 24 consecutive frames per sheet, preserving the export aspect ratio. Enlarged samples supplement this review.
 - `static/history/`: superseded Jaxxton candidates, retained without overwriting them.
 - `static/references/`: original Dashies masters for comparison.
 - `static/library/catalog.json`: active file registry, mirrored into `src/lib/catalog.json` for server use.
@@ -51,21 +54,23 @@ The app uses SvelteKit with the Vercel adapter. Deploy feature branches as previ
 - `docs/*prompts.json`: exact recorded image-edit prompts and original generation paths. Those local paths record the generation environment; use the asset index for current repository files.
 - `docs/PROVENANCE.json`: source revision and checksums for current, original and historical assets.
 
-Packed MP4 layout is **alpha on the left, RGB on the right**. Use the included packed-alpha player; a normal video element shows both halves. Use the ivory MP4 for opaque placement on `#F7F6F4`, and WebM where alpha decoding is supported.
+Packed MP4 layout is **alpha on the left, RGB on the right**. Use the included packed-alpha player; a normal video element shows both halves. Use ivory MP4 on `#F7F6F4`, dark MP4 on `#1C090C`, and WebM where alpha decoding is supported.
 
-## Regenerate motion studies
+## Reproduce the movie exports
 
-The source baseline is `trlmkb/dashies` at `dc1319d1beeb0d00b85eeec85b1e5cb179fa2e3e`, which includes the approved Tariff page v4 absent from the older main snapshot. The upstream archive is unchanged.
+Exact prompts, model settings, job IDs and result URLs are recorded in `docs/generation/final-v1`. All new movies use Seedance 2.5 from the corresponding master reference. Sources are stored with the exports; hashes bind each source to its frame report.
 
-The script requires Python with NumPy, OpenCV and Pillow, plus FFmpeg with libx264 and libvpx-vp9. Supply the source checkout's `static/mascots/motion` directory:
+The finishing script requires NumPy, OpenCV, Pillow and FFmpeg with libx264 and libvpx-vp9. Place a source in `output/final-v1/<agent>-<variant>-source.mp4`, then run:
 
 ```sh
-python scripts/rebrand-motion.py /path/to/dashies/static/mascots/motion
+python scripts/finish-motion.py ads-calm
 node scripts/register.mjs
 pnpm mascots:check
 ```
 
-The script changes palette without spatial or temporal blurring, retains source timing and uses a fixed crop over the complete motion envelope. Existing alpha is carried through before encoding; lossy video encoding can introduce small differences. Preserve old candidates before rerunning and increment versions for new releases.
+The script estimates the green stage color and solves alpha only within a six-pixel edge band, without spatial or temporal filtering of the character interior. It applies a fixed crop over the entire motion envelope and premultiplied resampling. Generated records start as `pending-review`: inspect every frame and confirm no source-border clipping before adding them to the active manifest with `reviewed-export` status. Encoding is lossy.
+
+Set `MOTION_VERSION` and `SOURCE_VERSION` for new versions; preserve prior files before exporting. Old palette-only studies and the historical Dashies archive remain intact. The archive baseline is `trlmkb/dashies` revision `dc1319d1beeb0d00b85eeec85b1e5cb179fa2e3e`.
 
 ## Read-only integration
 
@@ -73,7 +78,7 @@ The script changes palette without spatial or temporal blurring, retains source 
 - `/mcp`: Streamable HTTP MCP endpoint, with `marketing_list_mascots` and `marketing_get_mascot`.
 - Optional `JAXXTIES_TRUSTED_ORIGINS`: additional trusted origins, as parsed by `src/lib/server/origin.ts`.
 
-Consumers must honor candidate/palette-study status instead of treating registry presence as production approval.
+Consumers must honor candidate/reviewed-export status instead of treating registry presence as production approval.
 
 ## Fonts
 

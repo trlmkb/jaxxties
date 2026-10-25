@@ -28,10 +28,14 @@ for (const folder of ['characters', 'family', 'motion'])
 						: 'Pose'
 					: folder === 'family'
 						? 'Family'
-						: 'Motion',
+						: url.includes('/sources/')
+							? 'Source'
+							: 'Motion',
 			status:
 				folder === 'motion'
-					? 'palette-study'
+					? url.includes('/sources/')
+						? 'source-record'
+						: 'reviewed-export'
 					: file.endsWith('/shipping/master-v1.png')
 						? 'selected-direction'
 						: 'candidate',
@@ -48,7 +52,7 @@ const catalog = {
 	sourceRevision: 'dc1319d1beeb0d00b85eeec85b1e5cb179fa2e3e',
 	archive: '/library/dashies-archive.json',
 	motionLimitations:
-		'Palette studies preserve original actions and defects. XX tracking is pending; not approved final motion.',
+		'Seedance performances reviewed frame by frame. Review status is not production approval. Shipping, Tariff and Token playful takes are withheld pending handedness or framing corrections.',
 	assets
 };
 const data = JSON.stringify(catalog, null, '\t') + '\n';

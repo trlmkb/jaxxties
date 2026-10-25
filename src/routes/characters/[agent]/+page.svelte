@@ -31,7 +31,7 @@
 				? 'Original Dashies reference'
 				: c.key === 'shipping'
 					? 'Selected direction C · transparent PNG'
-					: 'Rebrand candidate · transparent PNG'}
+					: 'Reference · transparent PNG'}
 		</p>
 	</div>
 	<Stage
@@ -52,7 +52,7 @@
 <section class="collection" id="poses">
 	<div class="section-heading">
 		<h2>Poses & gestures</h2>
-		<span class="eyebrow">TRANSPARENT / CANDIDATES</span>
+		<span class="eyebrow">TRANSPARENT PNG</span>
 	</div>
 	<div class="pose-grid">
 		{#each c.poses as pose}<article>
@@ -67,12 +67,19 @@
 <section class="collection" id="motion">
 	<div class="section-heading">
 		<h2>In motion</h2>
-		<span class="eyebrow">ORIGINAL ACTION / NEW PALETTE</span>
+		<span class="eyebrow">CALM / PLAYFUL</span>
 	</div>
 	<p class="section-copy">
-		Color studies retain the original timing and silhouette. Review each clip before use; the still
-		artwork defines the final materials and XX tool marks.
+		Six-second performances, built from the new character reference. Narrow eyes, familiar tools and
+		the quiet XX signature. Choose transparent, ivory or dark exports for your layout.
 	</p>
+	{#if c.key !== 'ads'}
+		<p class="caption">
+			Calm is ready to review. The playful take is pending {c.key === 'shipping'
+				? 'a correction to the scanner hand'
+				: 'wider framing for the raised ' + (c.key === 'tariff' ? 'paper' : 'magnifier')}.
+		</p>
+	{/if}
 	{#key c.key}<Motion agent={c.key} />{/key}
 </section>
 <section class="more-agents">

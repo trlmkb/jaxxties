@@ -11,7 +11,7 @@
 	</p>
 </section>
 <section class="family-grid">
-	{#each [['family-hero-v3', 'Hero group', 'Compact two-row composition. Mostly forward gaze, a subtle leftward Shipping angle.'], ['family-lineup-v3', 'At work', 'A wider lineup for section introductions and supporting illustrations.']] as [id, title, description]}<article
+	{#each [['family-hero-v4', 'Hero group', 'Compact two-row composition, with Shipping and Tariff behind Token and Ads.'], ['family-lineup-v3', 'At work', 'A wider lineup for section introductions and supporting illustrations.']] as [id, title, description]}<article
 		>
 			<Stage src={'/family/' + id + '.png'} alt={title} large />
 			<div class="asset-caption">
@@ -22,7 +22,7 @@
 				<a class="button quiet" href={'/family/' + id + '.png'} download>PNG ↓</a>
 			</div>
 			<p class="caption">
-				Candidate · transparent background · generated from original family artwork
+				Transparent PNG · four distinct finishes · original tools and narrow eyes
 			</p>
 		</article>{/each}
 </section>
