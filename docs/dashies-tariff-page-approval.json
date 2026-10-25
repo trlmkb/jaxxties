@@ -1,0 +1,29 @@
+{
+  "version": "tariff-page-v4",
+  "status": "approved-page-version",
+  "approved": true,
+  "approvedAt": "2026-10-19",
+  "approval": "User: looks good, promote this version to the actual tariff page, keep the transparent one for other use cases, add promoted version to library as well",
+  "scope": "Tariff landing-page hero on Dash.fi mascot PR #206; production remains subject to PR merge.",
+  "page": "/tariff",
+  "repository": "https://github.com/trlmkb/dashfi/pull/206",
+  "video": "/mascots/motion/tariff/tariff-page-v4.mp4",
+  "poster": "/mascots/motion/tariff/tariff-page-v4.webp",
+  "opaque": true,
+  "background": "#FAF9F5",
+  "width": 828,
+  "height": 876,
+  "fps": 24,
+  "frames": 145,
+  "durationSeconds": 6.041666666666667,
+  "transparentVersion": {
+    "mp4": "/mascots/motion/tariff/exports/tariff-seedance-alpha-v14-r7.mp4",
+    "webm": "/mascots/motion/tariff/exports/tariff-seedance-alpha-v14-r7.webm",
+    "poster": "/mascots/motion/tariff/exports/tariff-seedance-alpha-v14-r7.webp",
+    "purpose": "Reusable transparent animation; files unchanged"
+  },
+  "review": "/mascots/workflow/tariff-page-v4/REVIEW.md",
+  "knownLimitations": [
+    "Native motion blur and some fast paper-transition artifacts remain; accepted by user."
+  ]
+}

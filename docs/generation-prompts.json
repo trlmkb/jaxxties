@@ -1,0 +1,102 @@
+{
+  "masterPrompts": {
+    "ads": "Change only cobalt-blue body, arms, legs and blue target to deep ink navy satin metal (#1F3A5F). Preserve ivory face, three ivory browser dots, target geometry, raised dark cursor, funnel paddle, narrow black horizontal eyes and all other details exactly. Add a very small warm-brass XX engraving on the bottom edge of the handheld funnel paddle's dark frame, below the funnel icon. Keep icon unchanged. Do not add other gold parts.",
+    "tariff": "Change only copper body, arms, legs and document spine to deep oxblood satin metal (#7B2E3B). Keep embossed globe as restrained warm brushed brass (#C9A227 shaded physically), original globe topology EXACTLY unchanged. Keep ivory paper tab with its three lines, original tiny horizontal black eyes and dark stamp pad. Stamp casing warm brass with a very small engraved XX on the broad forward-facing casing, existing rounded grip stays oxblood. Do not change any anatomy or pose.",
+    "token": "Change only purple body structure, arms and feet to deep ink navy satin metal (#1F3A5F). Change jade magnifier frame to restrained warm brushed brass (#C9A227 shaded physically). Preserve ivory receipt, its exact curl and sawtooth edge, narrow horizontal black eyes, opposing usage arrows, gray lines and ten-pin chip glyph. Add a tiny discreet XX engraving on the lower outside edge of the magnifier rim near its handle, no text on the paper. Keep lens and exact original geometry."
+  },
+  "poses": [
+    {
+      "id": "ads-present-v2",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change only cobalt-blue body, arms, legs and blue target to deep ink navy satin metal (#1F3A5F). Preserve ivory face, three ivory browser dots, target geometry, raised dark cursor, funnel paddle, narrow black horizontal eyes and all other details exactly. Add a very small warm-brass XX engraving on the bottom edge of the handheld funnel paddle's dark frame, below the funnel icon. Keep icon unchanged. Do not add other gold parts. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/ads-present-v2.png",
+        "static/characters/ads/master-v1.png"
+      ]
+    },
+    {
+      "id": "ads-filter-v1",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change only cobalt-blue body, arms, legs and blue target to deep ink navy satin metal (#1F3A5F). Preserve ivory face, three ivory browser dots, target geometry, raised dark cursor, funnel paddle, narrow black horizontal eyes and all other details exactly. Add a very small warm-brass XX engraving on the bottom edge of the handheld funnel paddle's dark frame, below the funnel icon. Keep icon unchanged. Do not add other gold parts. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/ads-filter-v1.png",
+        "static/characters/ads/master-v1.png"
+      ]
+    },
+    {
+      "id": "shipping-scan-v1",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change teal body and limbs to deep oxblood satin metal (#7B2E3B), preserve ivory tape/label and barcode, graphite scanner and mint light, add tiny warm brass XX engraved on side of scanner as second reference. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/shipping-scan-v1.png",
+        "static/characters/shipping/master-v1.png"
+      ]
+    },
+    {
+      "id": "tariff-stamp-v1",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change only copper body, arms, legs and document spine to deep oxblood satin metal (#7B2E3B). Keep embossed globe as restrained warm brushed brass (#C9A227 shaded physically), original globe topology EXACTLY unchanged. Keep ivory paper tab with its three lines, original tiny horizontal black eyes and dark stamp pad. Stamp casing warm brass with a very small engraved XX on the broad forward-facing casing, existing rounded grip stays oxblood. Do not change any anatomy or pose. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/tariff-stamp-v1.png",
+        "static/characters/tariff/master-v1.png"
+      ]
+    },
+    {
+      "id": "tariff-present-v2",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change only copper body, arms, legs and document spine to deep oxblood satin metal (#7B2E3B). Keep embossed globe as restrained warm brushed brass (#C9A227 shaded physically), original globe topology EXACTLY unchanged. Keep ivory paper tab with its three lines, original tiny horizontal black eyes and dark stamp pad. Stamp casing warm brass with a very small engraved XX on the broad forward-facing casing, existing rounded grip stays oxblood. Do not change any anatomy or pose. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/tariff-present-v2.png",
+        "static/characters/tariff/master-v1.png"
+      ]
+    },
+    {
+      "id": "token-inspect-v1",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change only purple body structure, arms and feet to deep ink navy satin metal (#1F3A5F). Change jade magnifier frame to restrained warm brushed brass (#C9A227 shaded physically). Preserve ivory receipt, its exact curl and sawtooth edge, narrow horizontal black eyes, opposing usage arrows, gray lines and ten-pin chip glyph. Add a tiny discreet XX engraving on the lower outside edge of the magnifier rim near its handle, no text on the paper. Keep lens and exact original geometry. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/token-inspect-v1.png",
+        "static/characters/token/master-v1.png"
+      ]
+    },
+    {
+      "id": "token-present-v2",
+      "prompt": "Precise conservative rebrand of FIRST attached image. Preserve its exact pose, shape, camera, gesture, narrow original horizontal eyes, anatomy, tools in existing hands, all surface symbols. SECOND image is only the approved palette and discreet tool XX engraving reference, NOT the pose. Change only purple body structure, arms and feet to deep ink navy satin metal (#1F3A5F). Change jade magnifier frame to restrained warm brushed brass (#C9A227 shaded physically). Preserve ivory receipt, its exact curl and sawtooth edge, narrow horizontal black eyes, opposing usage arrows, gray lines and ten-pin chip glyph. Add a tiny discreet XX engraving on the lower outside edge of the magnifier rim near its handle, no text on the paper. Keep lens and exact original geometry. Same fully visible silhouette with breathing room on all sides. Smooth clean edges, intricate material texture intact. Transparent background, no floor or shadow, no caption. Never X eyes. No new limbs or props.",
+      "inputs": [
+        "dashies/static/mascots/poses/token-present-v2.png",
+        "static/characters/token/master-v1.png"
+      ]
+    }
+  ],
+  "copies": [
+    {
+      "id": "ads-present-v2",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-247c94d7-c5e7-43fe-af8d-4159107f3853.png",
+      "to": "static/characters/ads/ads-present-v1.png"
+    },
+    {
+      "id": "ads-filter-v1",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-17284931-1f56-4458-b308-ae1ea8a6188f.png",
+      "to": "static/characters/ads/ads-filter-v1.png"
+    },
+    {
+      "id": "shipping-scan-v1",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-6bfbfb8a-48b4-4455-ad80-44a8932c3db1.png",
+      "to": "static/characters/shipping/shipping-scan-v1.png"
+    },
+    {
+      "id": "tariff-stamp-v1",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-fc3dbd3a-2909-46a8-b364-773b2c60d749.png",
+      "to": "static/characters/tariff/tariff-stamp-v1.png"
+    },
+    {
+      "id": "tariff-present-v2",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-b65c6d7d-65bb-4600-b10f-2aaf7668c80d.png",
+      "to": "static/characters/tariff/tariff-present-v1.png"
+    },
+    {
+      "id": "token-inspect-v1",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-c49b345c-44dd-40cf-ad48-1200ac819123.png",
+      "to": "static/characters/token/token-inspect-v1.png"
+    },
+    {
+      "id": "token-present-v2",
+      "from": "/Users/zy/.codex/generated_images/01a12b40-f9ff-7a41-9ba7-0f48ee862c89/exec-8d98cec7-d820-421b-baa5-7de4bc4e3e0d.png",
+      "to": "static/characters/token/token-present-v1.png"
+    }
+  ]
+}

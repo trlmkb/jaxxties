@@ -1,0 +1,156 @@
+[
+  {
+    "path": "static/motion/shipping-playful-v2-packed.mp4",
+    "frames": 97,
+    "width": 2348,
+    "height": 764,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/shipping-playful-v2.webm",
+    "frames": 97,
+    "width": 1174,
+    "height": 764,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/shipping-playful-v2-ivory.mp4",
+    "frames": 97,
+    "width": 1174,
+    "height": 764,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/ads-calm-v2-packed.mp4",
+    "frames": 145,
+    "width": 1312,
+    "height": 602,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/ads-calm-v2.webm",
+    "frames": 145,
+    "width": 656,
+    "height": 602,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/ads-calm-v2-ivory.mp4",
+    "frames": 145,
+    "width": 656,
+    "height": 602,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/ads-playful-v2-packed.mp4",
+    "frames": 97,
+    "width": 1964,
+    "height": 724,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/ads-playful-v2.webm",
+    "frames": 97,
+    "width": 982,
+    "height": 724,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/ads-playful-v2-ivory.mp4",
+    "frames": 97,
+    "width": 982,
+    "height": 724,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/token-calm-v2-packed.mp4",
+    "frames": 145,
+    "width": 1124,
+    "height": 660,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/token-calm-v2.webm",
+    "frames": 145,
+    "width": 562,
+    "height": 660,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/token-calm-v2-ivory.mp4",
+    "frames": 145,
+    "width": 562,
+    "height": 660,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/token-playful-v2-packed.mp4",
+    "frames": 75,
+    "width": 1512,
+    "height": 954,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/token-playful-v2.webm",
+    "frames": 75,
+    "width": 756,
+    "height": 954,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/token-playful-v2-ivory.mp4",
+    "frames": 75,
+    "width": 756,
+    "height": 954,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/tariff-calm-v2-packed.mp4",
+    "frames": 145,
+    "width": 1512,
+    "height": 856,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/tariff-calm-v2.webm",
+    "frames": 145,
+    "width": 756,
+    "height": 856,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/tariff-calm-v2-ivory.mp4",
+    "frames": 145,
+    "width": 756,
+    "height": 856,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/tariff-playful-v2-packed.mp4",
+    "frames": 145,
+    "width": 1040,
+    "height": 568,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/tariff-playful-v2.webm",
+    "frames": 145,
+    "width": 520,
+    "height": 568,
+    "alphaTag": "1"
+  },
+  {
+    "path": "static/motion/tariff-playful-v2-ivory.mp4",
+    "frames": 145,
+    "width": 520,
+    "height": 568,
+    "alphaTag": null
+  },
+  {
+    "path": "static/motion/tariff-page-v2-ivory.mp4",
+    "frames": 145,
+    "width": 828,
+    "height": 876,
+    "alphaTag": null
+  }
+]

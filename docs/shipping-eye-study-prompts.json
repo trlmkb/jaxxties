@@ -1,0 +1,19 @@
+{
+  "tool": "Built-in image_gen",
+  "status": "Exploratory candidates; not approved masters. Generative edits can vary texture and small details.",
+  "source": "/Users/zy/dev/dash/dashies/static/mascots/masters/shipping-front-v1.png",
+  "prompts": [
+    [
+      "A",
+      "Use case: precise-object-edit. Edit target: attached canonical Shipping agent PNG. Create a very conservative Jaxxton rebrand colorway of this SAME mascot, not a redesign. Preserve exact body shape, proportions, pose, view angle, surface texture, folded parcel seams, continuous ivory packing tape, label layout with three gray lines and barcode, dark handheld scanner in viewer-left hand, scanner mint light slit, rounded arms, broad compact feet and small horizontal inset below the label. Preserve the original tiny narrow horizontal black eyes unchanged. Change ONLY jade/teal body and limbs to deep rich oxblood satin metal, nominal base #7B2E3B, natural shaded highlights. Ivory stays ivory #F7F6F4; dark scanner stays graphite. No added branding, letters, objects, gold trim, costumes or new features. Keep original lighting and detailed satin texture. Entire character and scanner visible with comfortable transparent margins, original three-quarter camera and identical silhouette. Transparent background, no floor, no shadow, no text. This is variant A, original-eye control; do not put a variant label inside the image."
+    ],
+    [
+      "B",
+      "Use case: precise-object-edit. Attached image is the EXACT edit target: the oxblood Shipping mascot. Change ONLY the two black eye apertures. Replace each horizontal pill eye with a tiny shallow X-shaped black inset, two short diagonal strokes crossing, horizontally elongated approximately the same width as original eye, only slightly taller, width to height about 2:1. Refined rounded bevels, subtle black cavities, quiet alert expression. Eyes stay exactly at original centers and same perspective. These are restrained small Xs for JaXXton, not oversized cartoon crosses or stitched eyes. Keep EVERY other detail of this target unchanged: oxblood body, texture, ivory tape, barcode, markings, scanner mint light, grip, arms, feet, pose, view, lighting and framing. Do not change body color or shapes. Transparent background maintained, no text, no captions, no floor. Full character visible."
+    ],
+    [
+      "C",
+      "Use case: precise-object-edit. Attached image is the EXACT edit target: the oxblood Shipping mascot. Keep its two original tiny horizontal black eyes EXACTLY unchanged. Add ONLY a small, discreet engraved XX mark on the broad dark graphite side panel of its handheld scanner, centered in that side panel, away from the mint illuminated front slit. The mark is two neighboring simple narrow X letterforms, subtle shallow engraving in muted warm brass, physically following the scanner perspective, small enough to be a manufacturer's signature. NOT large or floating; no other branding. Keep EVERY other detail unchanged: oxblood body and texture, ivory tape, barcode and label, scanner geometry and mint light, hands and grip, arms, feet, pose, camera, lighting and framing. Transparent background maintained. No captions, no floor. Full character visible."
+    ]
+  ]
+}

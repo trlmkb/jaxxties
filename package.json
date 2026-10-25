@@ -1,0 +1,33 @@
+{
+  "name": "jaxxties",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Jaxxton character, pose and motion library",
+  "packageManager": "pnpm@10.11.0",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+    "format:check": "prettier --check src scripts/*.mjs",
+    "mascots:check": "node scripts/validate.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "^6.3.3",
+    "@sveltejs/kit": "^2.57.0",
+    "@sveltejs/vite-plugin-svelte": "^6.2.4",
+    "@types/node": "^25.6.0",
+    "prettier": "^3.8.1",
+    "prettier-plugin-svelte": "^3.5.1",
+    "svelte": "^5.55.2",
+    "svelte-check": "^4.4.8",
+    "tsx": "^4.23.1",
+    "typescript": "^5.6.2",
+    "vite": "^6.3.5"
+  }
+}

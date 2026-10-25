@@ -1,0 +1,454 @@
+{
+  "sourceRepository": "https://github.com/trlmkb/dashies",
+  "sourceRevision": "dc1319d1beeb0d00b85eeec85b1e5cb179fa2e3e",
+  "selectedDirection": "Shipping C; narrow original eyes, XX on tool",
+  "currentPalette": {
+    "shipping": "#7B2E3B",
+    "ads": "#1F3A5F",
+    "tariff": "#A27C3E",
+    "token": "#6B4D78"
+  },
+  "note": "Prompt records retain original local generation paths. Current active files are in the asset catalog; superseded candidates are in static/history. Motion source hashes are in static/motion/manifest.json.",
+  "files": [
+    {
+      "path": "static/characters/ads/ads-filter-v1.png",
+      "bytes": 1273425,
+      "sha256": "63df874373ba3c5b74e82a76f65f3d032fb4ae182d4f0fc9954dabd0d664b458"
+    },
+    {
+      "path": "static/characters/ads/ads-present-v1.png",
+      "bytes": 1274560,
+      "sha256": "2ea2dfce9c85647ea834e4b64883f29fb2f8c5e45b54756832efa0eab21c9c7c"
+    },
+    {
+      "path": "static/characters/ads/master-v1.png",
+      "bytes": 1266858,
+      "sha256": "a4e7447c1873dfe7580ba9e68832eb63a0416ac79b60e8f44bfeba261906e3de"
+    },
+    {
+      "path": "static/characters/shipping/master-v1.png",
+      "bytes": 1301481,
+      "sha256": "b98f1b8aa80083f202f71897514411d5043db2a6900e46201de4c6799600e765"
+    },
+    {
+      "path": "static/characters/shipping/shipping-scan-v1.png",
+      "bytes": 1356026,
+      "sha256": "77a2889b7826ed3ad626770be5b9ef1be98cf6ab15727c3c3f80e7e9bccc5a5f"
+    },
+    {
+      "path": "static/characters/tariff/master-v2.png",
+      "bytes": 1317550,
+      "sha256": "1bc7a3a5fefd623baee5120c3ddf5355e2bb0d4ce2f3ab1ace8ba3c1c6bef01c"
+    },
+    {
+      "path": "static/characters/tariff/tariff-present-v2.png",
+      "bytes": 1368930,
+      "sha256": "407522e44ba372af3eba0eeefc19d4976af5adb1d4385ebbf8ab9288506cdace"
+    },
+    {
+      "path": "static/characters/tariff/tariff-stamp-v2.png",
+      "bytes": 1410147,
+      "sha256": "5def7fde2c9d5067a63afaefdbca9942845b0cb4bc0e9fba17b989ba056c1cdc"
+    },
+    {
+      "path": "static/characters/token/master-v2.png",
+      "bytes": 1119738,
+      "sha256": "67732fb70ae14f3ad042d0150ecee75fea68b0769c8e7903020d72afe7f26f3e"
+    },
+    {
+      "path": "static/characters/token/token-inspect-v2.png",
+      "bytes": 1086641,
+      "sha256": "c573b932529cc3e0f5ae4fd3db1d57f3d84409ab70fc4a57c7aa78d787aae498"
+    },
+    {
+      "path": "static/characters/token/token-present-v2.png",
+      "bytes": 1210062,
+      "sha256": "9c7edcc14b3a058248618c1f0249f1f8416d559eb884d5489a4fede7e0a0b800"
+    },
+    {
+      "path": "static/family/family-hero-v3.png",
+      "bytes": 1662469,
+      "sha256": "6d8240bfdcaa41d2bd73b620ea5b074bf6171e128aa5facc296d658f1e627d8d"
+    },
+    {
+      "path": "static/family/family-lineup-v3.png",
+      "bytes": 1312757,
+      "sha256": "5ac9b81cb8069433f0709ce95bd058436d424f45b236c244b15cb8d7e3bbb247"
+    },
+    {
+      "path": "static/motion/ads-calm-v2-ivory.mp4",
+      "bytes": 517516,
+      "sha256": "1571e4067898100fe443a21ce657ad27da225a9a93dca7afe1b33ebe160d1e8f"
+    },
+    {
+      "path": "static/motion/ads-calm-v2-packed.mp4",
+      "bytes": 702350,
+      "sha256": "56e7271dcce315ce91a31d27ec809b44d2b3feb6e0b835320222dae26191b052"
+    },
+    {
+      "path": "static/motion/ads-calm-v2.webm",
+      "bytes": 538959,
+      "sha256": "5a0ef80ede3abd6efc047b438bb9a0b3e961b9f6dd94937ea81623feff3a0687"
+    },
+    {
+      "path": "static/motion/ads-calm-v2.webp",
+      "bytes": 139902,
+      "sha256": "e80ba632ceaf1fb158d3449fbf258dee5183c596d4142b84b9a03c2e219a7847"
+    },
+    {
+      "path": "static/motion/ads-playful-v2-ivory.mp4",
+      "bytes": 653488,
+      "sha256": "034437da18d1df0350f3191e2124a42a0aae45a2839ef23b8972ff29021de671"
+    },
+    {
+      "path": "static/motion/ads-playful-v2-packed.mp4",
+      "bytes": 975280,
+      "sha256": "fe6c22770a619e61464830816ef51658d19d28a23b7657b73b56f5868536876f"
+    },
+    {
+      "path": "static/motion/ads-playful-v2.webm",
+      "bytes": 863747,
+      "sha256": "1e287a63c0c2f3d4de375e2ddf307e9a27d1cf98a84bfbd70f6bed85860c3c4a"
+    },
+    {
+      "path": "static/motion/ads-playful-v2.webp",
+      "bytes": 140364,
+      "sha256": "d54fe88e22ee079762549a6d04c2fde7154b2cce0b6a5245df79152154acb89c"
+    },
+    {
+      "path": "static/motion/manifest.json",
+      "bytes": 9314,
+      "sha256": "2333eff429b228cf6307862fe84faa9fdb638bf8ca675102b10dd97d78127622"
+    },
+    {
+      "path": "static/motion/shipping-playful-v2-ivory.mp4",
+      "bytes": 986063,
+      "sha256": "d6e4387e419a488a6c07eb93e328c229f18414abfea5030a37ef9260c82f15b6"
+    },
+    {
+      "path": "static/motion/shipping-playful-v2-packed.mp4",
+      "bytes": 1226560,
+      "sha256": "c918a2273427e4ff9885e3490f46d5f602fe882f4d3882c55dc717948b9a8556"
+    },
+    {
+      "path": "static/motion/shipping-playful-v2.webm",
+      "bytes": 1089409,
+      "sha256": "4b439925cee37ec5050a0a793c02bebd4fa932665c5ee3e6cbdd03ea0bb31344"
+    },
+    {
+      "path": "static/motion/shipping-playful-v2.webp",
+      "bytes": 188210,
+      "sha256": "611a730712537a8d71418ed6255f1d9e18f3c5ce3656221cccc26c4f955073d7"
+    },
+    {
+      "path": "static/motion/tariff-calm-v2-ivory.mp4",
+      "bytes": 859579,
+      "sha256": "80cca46fdedf07cfb995ac7620a48d59c1fa34178d33513e243c9e2343b4306f"
+    },
+    {
+      "path": "static/motion/tariff-calm-v2-packed.mp4",
+      "bytes": 1333365,
+      "sha256": "562ee1397e83f2c5276e4342d6d948fdf003d2ca79a0411846c87553dfc0456d"
+    },
+    {
+      "path": "static/motion/tariff-calm-v2.webm",
+      "bytes": 854628,
+      "sha256": "9ea2f16967bcb90ad4c4ed7de862e2a409acc502c0adffdb56ef025cdc939156"
+    },
+    {
+      "path": "static/motion/tariff-calm-v2.webp",
+      "bytes": 258666,
+      "sha256": "5a201da5aad10fe10cb165b92dfac0558c9a60375a9d7ca77b13029f3b0cf0b0"
+    },
+    {
+      "path": "static/motion/tariff-page-v2-ivory.mp4",
+      "bytes": 573172,
+      "sha256": "7f5b88be7023986df79e14125bacc683c89789c9bbbc074030c60e2e9260e081"
+    },
+    {
+      "path": "static/motion/tariff-page-v2.webp",
+      "bytes": 113078,
+      "sha256": "28daaee6c521e2f5ba148748a4bf54f932332c8e0ec3fe173e3b4bc4f8a36d29"
+    },
+    {
+      "path": "static/motion/tariff-playful-v2-ivory.mp4",
+      "bytes": 292582,
+      "sha256": "30c0e95aa736b772ed4989bc7c4810c7d814c1bc488aca21e614c9e6cd2213ac"
+    },
+    {
+      "path": "static/motion/tariff-playful-v2-packed.mp4",
+      "bytes": 768159,
+      "sha256": "3053eb8ba377343ed9435e88f2a6c2c73934c4f66dd3e1a73194f44aa63968d5"
+    },
+    {
+      "path": "static/motion/tariff-playful-v2.webm",
+      "bytes": 526950,
+      "sha256": "9a55aca72a72ab281320d27f6b328d979d0ec928cdc625d739d0d953ca9f2bc1"
+    },
+    {
+      "path": "static/motion/tariff-playful-v2.webp",
+      "bytes": 69470,
+      "sha256": "83c242fbe2afeb9765cb1eed5d7f507d074d6d305152e4be9ca69cffef03ba64"
+    },
+    {
+      "path": "static/motion/token-calm-v2-ivory.mp4",
+      "bytes": 403594,
+      "sha256": "7fc075eb0d80205bb6f834f6738f94f753a073e55b3f424a287d114d879d98a2"
+    },
+    {
+      "path": "static/motion/token-calm-v2-packed.mp4",
+      "bytes": 568258,
+      "sha256": "a2e1a3e78a3a311c02f6308bd1af2f27e1f49e3748b9300c2034a2331d9c7a57"
+    },
+    {
+      "path": "static/motion/token-calm-v2.webm",
+      "bytes": 380518,
+      "sha256": "94b0d4146c9319a93a208f58a1e299f4d20da1185bca2dbea38e8712b957a119"
+    },
+    {
+      "path": "static/motion/token-calm-v2.webp",
+      "bytes": 155004,
+      "sha256": "14cf166fb7c04d085d68ec0ee4e4f44d98a97df0e5ed40f1c095fffc5aa58f67"
+    },
+    {
+      "path": "static/motion/token-playful-v2-ivory.mp4",
+      "bytes": 661367,
+      "sha256": "226584565f9c7260794099762e89a76307c8d694ffaa92b5741ec414df14707c"
+    },
+    {
+      "path": "static/motion/token-playful-v2-packed.mp4",
+      "bytes": 796190,
+      "sha256": "4d258f3d30435179771b42b5d429d8d00bd766ea87af72b0ecdea8aa5c099805"
+    },
+    {
+      "path": "static/motion/token-playful-v2.webm",
+      "bytes": 644054,
+      "sha256": "b0ad229cdfd118b55ffacb9b927499571af85fefa7b8c50764695291860bc32a"
+    },
+    {
+      "path": "static/motion/token-playful-v2.webp",
+      "bytes": 258348,
+      "sha256": "044251333e6e9e8c553a3f8deffcc73ede4a7f710033ff3d2ffb75b5572223dc"
+    },
+    {
+      "path": "static/references/ads-dashies.png",
+      "bytes": 1343009,
+      "sha256": "134bb0b18f16b4d9f8805a7541f882fa5d7e173877bb9158c8c1c5af301955f0"
+    },
+    {
+      "path": "static/references/shipping-dashies.png",
+      "bytes": 1567995,
+      "sha256": "28e38563e308eb2e7ee96b9a98b9aa412ee7d3cf1eb9f017329681c10b518c47"
+    },
+    {
+      "path": "static/references/tariff-dashies.png",
+      "bytes": 1373915,
+      "sha256": "f667e181a2150403944f309dab202ecd7fb209d8528c306d0140f024f193875f"
+    },
+    {
+      "path": "static/references/token-dashies.png",
+      "bytes": 1277219,
+      "sha256": "c7830526b3b4d8204cd90e06c4c6513ba1a440d8493097f4d8f7e9e1cd936703"
+    },
+    {
+      "path": "static/history/characters/tariff/master-v1.png",
+      "bytes": 1230548,
+      "sha256": "cd58be7c7175d65be3bccaa263e0927001f68532791fb9e81ea920de34e13f9d"
+    },
+    {
+      "path": "static/history/characters/tariff/tariff-present-v1.png",
+      "bytes": 1263135,
+      "sha256": "1ffe9a70ed11b680505a64a55c1ebc34dc508207aea0768778197444066919cb"
+    },
+    {
+      "path": "static/history/characters/tariff/tariff-stamp-v1.png",
+      "bytes": 1301010,
+      "sha256": "d55531327a684efd4440195f7fb1732390010d4ca5ec921b465d4b2ee0d90dc9"
+    },
+    {
+      "path": "static/history/characters/token/master-v1.png",
+      "bytes": 1137782,
+      "sha256": "55b5b2244ccfddb8ccb37efbd294770acbeef91a4dd198a8bceffe36a23ef890"
+    },
+    {
+      "path": "static/history/characters/token/token-inspect-v1.png",
+      "bytes": 1143469,
+      "sha256": "b0019a798d204d72a9ecf2f2e803fd4745b24fd2f7d566674cea703218d895db"
+    },
+    {
+      "path": "static/history/characters/token/token-present-v1.png",
+      "bytes": 1239076,
+      "sha256": "f1ced3853661c085c8f861f099a03dc3b121dee7b7b087c02896ff78de34ca9b"
+    },
+    {
+      "path": "static/history/family/family-hero-v1.png",
+      "bytes": 1730039,
+      "sha256": "9b98a0069a367d58ccf5fffd54a9a4d7bf2d778e6051f1d749ae59ded1ddfe58"
+    },
+    {
+      "path": "static/history/family/family-hero-v2.png",
+      "bytes": 1698448,
+      "sha256": "7ab35d2b82624414f7c786849cb8289e18ee70e27bd58aa161a445307a1b2ced"
+    },
+    {
+      "path": "static/history/family/family-lineup-v1.png",
+      "bytes": 1134606,
+      "sha256": "a81f7663dc83762f5cd4ee6671cfd300abe7349974ac19030f86a4188d050f04"
+    },
+    {
+      "path": "static/history/family/family-lineup-v2.png",
+      "bytes": 1128991,
+      "sha256": "277526092e6387414fb14a04f13d90caae2d7875f2335078635fac8b307194b4"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v1-ivory.mp4",
+      "bytes": 517516,
+      "sha256": "1571e4067898100fe443a21ce657ad27da225a9a93dca7afe1b33ebe160d1e8f"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v1-packed.mp4",
+      "bytes": 702350,
+      "sha256": "56e7271dcce315ce91a31d27ec809b44d2b3feb6e0b835320222dae26191b052"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v1.webm",
+      "bytes": 538959,
+      "sha256": "5f6821178e149fe23f0607f064f1ddd285d26f86a11f82757e474edd62b30def"
+    },
+    {
+      "path": "static/history/motion/ads-calm-v1.webp",
+      "bytes": 139902,
+      "sha256": "e80ba632ceaf1fb158d3449fbf258dee5183c596d4142b84b9a03c2e219a7847"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v1-ivory.mp4",
+      "bytes": 653488,
+      "sha256": "034437da18d1df0350f3191e2124a42a0aae45a2839ef23b8972ff29021de671"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v1-packed.mp4",
+      "bytes": 975280,
+      "sha256": "fe6c22770a619e61464830816ef51658d19d28a23b7657b73b56f5868536876f"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v1.webm",
+      "bytes": 863747,
+      "sha256": "e815406adc515985ef72a4567a11635a90b0744e0476d38e32a610d89ccc513b"
+    },
+    {
+      "path": "static/history/motion/ads-playful-v1.webp",
+      "bytes": 140364,
+      "sha256": "d54fe88e22ee079762549a6d04c2fde7154b2cce0b6a5245df79152154acb89c"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v1-ivory.mp4",
+      "bytes": 943663,
+      "sha256": "57b4bf9e879e1ee40fa4ec77b8d0e2d8761eca7916d2fb1e6b1ce66c44a8651e"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v1-packed.mp4",
+      "bytes": 1197940,
+      "sha256": "91847ef7b0bf20af0c5dbaa2c97538b6f7e7e766de83b6309de22de32173ca05"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v1.webm",
+      "bytes": 1052613,
+      "sha256": "caa45a1e00e56de24d3359c0105d0ec356bbb1c2202263fc45d5f8b73f66c1ce"
+    },
+    {
+      "path": "static/history/motion/shipping-playful-v1.webp",
+      "bytes": 184282,
+      "sha256": "c3bde4979094d70429747e42e999c3cb2f6ee11d8bee80abd08e07f9294aeb8e"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v1-ivory.mp4",
+      "bytes": 1006597,
+      "sha256": "20a07023e62f9d24c02e70552bfc114cfc37e3a0b4234696a13620dcde238976"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v1-packed.mp4",
+      "bytes": 1518181,
+      "sha256": "67b0fc2adaed35c2befa29d5ed5160e9cf0e94db91b6728162a02d2b9e5cf791"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v1.webm",
+      "bytes": 1113127,
+      "sha256": "7362b921169e3674c90ef4d4adcda26aabcf3575c6a658994501d8f85544020c"
+    },
+    {
+      "path": "static/history/motion/tariff-calm-v1.webp",
+      "bytes": 278878,
+      "sha256": "9efad62cd690e5503e31b6f950f081cda0e0dd57f189915091f244c792ced47d"
+    },
+    {
+      "path": "static/history/motion/tariff-page-v1-ivory.mp4",
+      "bytes": 683234,
+      "sha256": "974211020bae893c9592cfa362c26c50d5aef2e5dbc57c2b1c3fb0004a3b19e8"
+    },
+    {
+      "path": "static/history/motion/tariff-page-v1.webp",
+      "bytes": 121104,
+      "sha256": "97780be6b13ee77316b559a90498061840765a0852a34e43ec0cf3208cfec8df"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v1-ivory.mp4",
+      "bytes": 368878,
+      "sha256": "ad6a7849df6f1b2f75599447a36b4d21e77ea5368d3509f1d5cd2876ef1bb3d8"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v1-packed.mp4",
+      "bytes": 853606,
+      "sha256": "80b69357420405763fe3b5fa6a9fdc55d54043db682a459769846ad2e52f6a50"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v1.webm",
+      "bytes": 652359,
+      "sha256": "37d50827bf4fef63ef5b2e2e5a6e181ada66618d37892db61a5528ca3b4b0b2f"
+    },
+    {
+      "path": "static/history/motion/tariff-playful-v1.webp",
+      "bytes": 76524,
+      "sha256": "5b5c339fc0c3cb14e5a34b84423d1f22bb1ee71cc7bd8ae2a5481039bfd147eb"
+    },
+    {
+      "path": "static/history/motion/token-calm-v1-ivory.mp4",
+      "bytes": 403708,
+      "sha256": "4df19241b319ec6fd351daf0f59f6087dd87ae66c655a18a7f61609324db1daa"
+    },
+    {
+      "path": "static/history/motion/token-calm-v1-packed.mp4",
+      "bytes": 572094,
+      "sha256": "f275d968db9d8172b09692c501fd713a3b6f61dfc52f1ce9e9e35d164323bcae"
+    },
+    {
+      "path": "static/history/motion/token-calm-v1.webm",
+      "bytes": 380875,
+      "sha256": "5c6354cc608128bd512a0be8e791935445712fcbb1d6a95661488be21918c179"
+    },
+    {
+      "path": "static/history/motion/token-calm-v1.webp",
+      "bytes": 155556,
+      "sha256": "f437fc72432b0d72b8225660f24d06f757e570ffb89f6266aa31ef3e4edb956a"
+    },
+    {
+      "path": "static/history/motion/token-playful-v1-ivory.mp4",
+      "bytes": 659882,
+      "sha256": "e9ca3502f464572701bb8b6ad313e06b40de0b98f0b58b8e37793c140b1cd8a9"
+    },
+    {
+      "path": "static/history/motion/token-playful-v1-packed.mp4",
+      "bytes": 797326,
+      "sha256": "7ad83b5212239e2be41c3fb7d18b36108edee6c69c2860b89f7f9f2461615ccd"
+    },
+    {
+      "path": "static/history/motion/token-playful-v1.webm",
+      "bytes": 639530,
+      "sha256": "77a74ff65463205f4d582ca130b8939f6491aadf0253794dc410a06508b85977"
+    },
+    {
+      "path": "static/history/motion/token-playful-v1.webp",
+      "bytes": 259412,
+      "sha256": "ca888f6d731c32f6afb50cd0edf1ea8cda29e9ea658babc1c73e781f9891d3d4"
+    }
+  ]
+}
